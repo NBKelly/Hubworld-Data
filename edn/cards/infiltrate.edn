@@ -1,0 +1,10 @@
+{:faction :omniworks
+ :id "infiltrate"
+ :shard-cost 1
+ :stripped-text "(Reaction) As you discover cards in a Council during a breach: Discover +2 cards."
+ :stripped-title "Infiltrate"
+ :text "<strong>(Reaction) As you discover cards in a Council during a breach:</strong> Discover +2 cards."
+ :title "Infiltrate"
+ :subtypes [:subterfuge :tactic]
+ :type :moment
+ :uniqueness nil}

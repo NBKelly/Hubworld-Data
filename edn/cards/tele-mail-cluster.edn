@@ -1,0 +1,12 @@
+{:collection-icons :draw
+ :faction :omniworks
+ :id "tele-mail-cluster"
+ :presence 4
+ :shard-cost 2
+ :stripped-text "(Reaction) After this card is forged: Stage 1 card (you can stage agents, sources, and obstacles)."
+ :stripped-title "Tele-Mail Cluster"
+ :text "<strong>(Reaction) After this card is forged:</strong> Stage 1 card <em>(you can stage agents, sources, and obstacles).</em>"
+ :title "Tele-Mail Cluster"
+ :subtypes [:contraption]
+ :type :source
+ :uniqueness nil}

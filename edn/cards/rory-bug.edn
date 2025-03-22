@@ -1,0 +1,14 @@
+{:barrier 3
+ :collection-icons :shard
+ :faction :omniworks
+ :id "rory-bug"
+ :presence 2
+ :shard-cost 0
+ :stripped-text "(Instant) Exhaust this card and lose 2 Shard: Shift this card."
+ :stripped-title "Rory & Bug"
+ :subtitle "“You Catch It, We Fetch It!”"
+ :text "<strong>(Instant) Exhaust this card and lose 2 Shard:</strong> Shift this card."
+ :title "Rory & Bug"
+ :subtypes [:renegade]
+ :type :agent
+ :uniqueness true}

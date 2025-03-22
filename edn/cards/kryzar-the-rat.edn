@@ -1,0 +1,14 @@
+{:barrier 3
+ :collection-icons :shard
+ :faction :the-remnants
+ :id "kryzar-the-rat"
+ :presence 3
+ :shard-cost 2
+ :stripped-text "(Reaction) As you approach a district, exhaust this card: Stage 1 card (you can stage agents, obstacles, and sources)."
+ :stripped-title "Kryzar the Rat"
+ :subtitle "Navigator of the Cortex Maze"
+ :text "<strong>(Reaction) As you approach a district, exhaust this card:</strong> Stage 1 card <em>(you can stage agents, obstacles, and sources)</em>."
+ :title "Kryzar the Rat"
+ :subtypes [:enforcer]
+ :type :agent
+ :uniqueness true}

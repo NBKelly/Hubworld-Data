@@ -1,0 +1,14 @@
+{:action-limit 3
+ :collection-icons :draw
+ :draw-limit 5
+ :faction :old-aidalon
+ :id "chairman-bo-pax"
+ :shard-limit 10
+ :stripped-text "(Action) If you have more cards in your front row than your rival, exhaust this card: They gain 1 Heat."
+ :stripped-title "Chairman Bo Pax"
+ :subtitle "Heir to Pax Industries"
+ :text "<strong>(Action) If you have more cards in your front row than your rival, exhaust this card:</strong> They gain 1 Heat."
+ :title "Chairman Bo Pax"
+ :subtypes [:visionary]
+ :type :seeker
+ :uniqueness true}

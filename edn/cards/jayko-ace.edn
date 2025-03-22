@@ -1,0 +1,14 @@
+{:action-limit 3
+ :collection-icons :draw
+ :draw-limit 5
+ :faction :the-remnants
+ :id "jayko-ace"
+ :shard-limit 10
+ :stripped-text "(Reaction) As you approach a district, exhaust this card and gain 1 Heat: Gain 2 Shard and draw 1 card."
+ :stripped-title "Jayko & Ace"
+ :subtitle "Boisterous Troublemakers"
+ :text "<strong>(Reaction) As you approach a district, exhaust this card and gain 1 Heat:</strong> Gain 2 Shard and draw 1 card."
+ :title "Jayko & Ace"
+ :subtypes [:renegade]
+ :type :seeker
+ :uniqueness true}

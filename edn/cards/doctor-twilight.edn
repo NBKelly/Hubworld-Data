@@ -1,0 +1,14 @@
+{:barrier 3
+ :collection-icons :draw
+ :faction :the-collective
+ :id "doctor-twilight"
+ :presence 3
+ :shard-cost 3
+ :stripped-text "(Instant) Exhaust this card and exile 1 card from your Archives: Gain 3 Shard."
+ :stripped-title "Doctor Twilight"
+ :subtitle "Dream Surgeon"
+ :text "<strong>(Instant) Exhaust this card and exile 1 card from your Archives:</strong> Gain 3 Shard."
+ :title "Doctor Twilight"
+ :subtypes [:visionary]
+ :type :agent
+ :uniqueness true}

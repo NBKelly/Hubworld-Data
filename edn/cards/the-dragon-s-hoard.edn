@@ -1,0 +1,12 @@
+{:collection-icons :shard
+ :faction :the-remnants
+ :id "the-dragon-s-hoard"
+ :presence 3
+ :shard-cost 2
+ :stripped-text "While this card is forged: Each adjacent card gets +1 Presence (forged or unforged)."
+ :stripped-title "The Dragon’s Hoard"
+ :text "<strong>While this card is forged:</strong> Each adjacent card gets +1 Presence <em>(forged or unforged)</em>."
+ :title "The Dragon’s Hoard"
+ :subtypes [:location]
+ :type :source
+ :uniqueness nil}

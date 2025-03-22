@@ -1,0 +1,22 @@
+({:id :enforcer
+  :name "Enforcer"}
+ {:id :renegade
+  :name "Renegade"}
+ {:id :influence
+  :name "Influence"}
+ {:id :contraption
+  :name "Contraption"}
+ {:id :location
+  :name "Location"}
+ {:id :subterfuge
+  :name "Subterfuge"}
+ {:id :persona
+  :name "Persona"}
+ {:id :visionary
+  :name "Visionary"}
+ {:id :tactic
+  :name "Tactic"}
+ {:id :paragon
+  :name "Paragon"}
+ {:id :commerce
+  :name "Commerce"})

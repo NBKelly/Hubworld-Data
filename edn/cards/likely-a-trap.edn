@@ -1,0 +1,10 @@
+{:faction :the-collective
+ :id "likely-a-trap"
+ :shard-cost 0
+ :stripped-text "(Reaction) After a player completes an encounter with an unforged card in your grid: They may discover that card. If they do not, archive the top 2 cards of their Commons."
+ :stripped-title "Likely a Trap"
+ :text "<strong>(Reaction) After a player completes an encounter with an unforged card in your grid:</strong> They may discover that card. If they do not, archive the top 2 cards of their Commons."
+ :title "Likely a Trap"
+ :subtypes [:subterfuge :tactic]
+ :type :moment
+ :uniqueness nil}

@@ -1,0 +1,14 @@
+{:action-limit 3
+ :collection-icons :shard
+ :draw-limit 5
+ :faction :omniworks
+ :id "goldie-xin"
+ :shard-limit 10
+ :stripped-text "(Action) If you have fewer Heat in your pool than your rival, exhaust this card: Gain 3 Shard."
+ :stripped-title "Goldie Xin"
+ :subtitle "Tinkering Technician"
+ :text "<strong>(Action) If you have fewer Heat in your pool than your rival, exhaust this card:</strong> Gain 3 Shard."
+ :title "Goldie Xin"
+ :subtypes [:paragon]
+ :type :seeker
+ :uniqueness true}

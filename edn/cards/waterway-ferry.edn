@@ -1,0 +1,12 @@
+{:barrier 2
+ :faction :omniworks
+ :id "waterway-ferry"
+ :presence 3
+ :shard-cost 1
+ :stripped-text "(Reaction) After this card is forged: Shift it."
+ :stripped-title "Waterway Ferry"
+ :text "<strong>(Reaction) After this card is forged:</strong> Shift it."
+ :title "Waterway Ferry"
+ :subtypes [:contraption]
+ :type :obstacle
+ :uniqueness nil}

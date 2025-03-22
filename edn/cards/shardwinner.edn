@@ -1,0 +1,14 @@
+{:collection-icons :shard
+ :faction :old-aidalon
+ :id "shardwinner"
+ :presence 2
+ :shard-cost 3
+ :stripped-text "While this card is in your Council path: It gets +Shard collection icon. 
+While this card is in your Commons path: It gets +4 Presence."
+ :stripped-title "Shardwinner"
+ :text "<strong>While this card is in your Council path:</strong> It gets +Shard collection icon.<br/> <hr class="border-black opacity-20 my-1"/>
+<strong>While this card is in your Commons path:</strong> It gets +4 Presence."
+ :title "Shardwinner"
+ :subtypes [:persona]
+ :type :source
+ :uniqueness nil}

@@ -1,0 +1,10 @@
+{:faction :omniworks
+ :id "calling-in-favors"
+ :shard-cost 0
+ :stripped-text "(Action Action): Gain 4 Shard and draw 1 card."
+ :stripped-title "Calling in Favors"
+ :text "<strong>(Action Action):</strong> Gain 4 Shard and draw 1 card."
+ :title "Calling in Favors"
+ :subtypes [:commerce :influence]
+ :type :moment
+ :uniqueness nil}

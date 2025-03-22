@@ -1,0 +1,16 @@
+{:barrier 4
+ :collection-icons :shard
+ :faction :old-aidalon
+ :id "gargala-larga"
+ :presence 1
+ :shard-cost 3
+ :stripped-text "Cipher – Engaged player exhausts their seeker. 
+(Instant) Exhaust this card: Unexhaust your seeker."
+ :stripped-title "Gargala Larga"
+ :subtitle "Imperator of Growth"
+ :text "Cipher – Engaged player exhausts their seeker.<br/> <hr class="border-black opacity-20 my-1"/>
+<strong>(Instant) Exhaust this card:</strong> Unexhaust your seeker."
+ :title "Gargala Larga"
+ :subtypes [:enforcer]
+ :type :agent
+ :uniqueness true}

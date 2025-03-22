@@ -1,0 +1,14 @@
+{:barrier 2
+ :faction :omniworks
+ :id "canal-network"
+ :presence 5
+ :shard-cost 3
+ :stripped-text "(Confront): Shift an unforged card in engaged player’s grid. 
+(Discover) Exhaust your seeker: Shift a card in engaged player’s grid (forged or unforged)."
+ :stripped-title "Canal Network"
+ :text "<strong>(Confront):</strong> Shift an unforged card in engaged player’s grid.<br/> <hr class="border-black opacity-20 my-1"/>
+<strong>(Discover) Exhaust your seeker:</strong> Shift a card in engaged player’s grid <em>(forged or unforged)</em>."
+ :title "Canal Network"
+ :subtypes [:location]
+ :type :obstacle
+ :uniqueness nil}
