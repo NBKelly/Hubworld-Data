@@ -1,0 +1,37 @@
+(ns nr-data.utils
+  (:require
+    [clojure.string :as str]))
+
+(defmacro vals->vec
+  ([coll]
+   `(into [] (vals ~coll)))
+  ([order coll]
+   `(into [] (sort-by ~order (vals ~coll)))))
+
+(defn cards->map
+  ([cards] (cards->map :code cards))
+  ([kw cards]
+   (into {} (map (juxt kw identity) cards))))
+
+(defn normalize-text [s]
+  (some-> (not-empty s)
+          (name)
+          (java.text.Normalizer/normalize java.text.Normalizer$Form/NFD)
+          (str/replace #"[\P{ASCII}]+" "")
+          (str/trim)))
+
+(defn slugify
+  "As defined here: https://you.tools/slugify/"
+  ([s] (slugify s "-"))
+  ([s sep]
+   (if (nil? s) ""
+     (as-> s s
+       (normalize-text s)
+       (str/lower-case s)
+       (str/split s #"[\p{Space}\p{Punct}]+")
+       (filter seq s)
+       (str/join sep s)))))
+
+(defn prune-null-fields
+  [card]
+  (apply dissoc card (for [[k v] card :when (nil? v)] k)))

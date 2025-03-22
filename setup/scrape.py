@@ -175,6 +175,7 @@ set_cards = []
 
 types = set()
 subtypes = set()
+factions = set()
 
 def set_identities(card):
     if card[':type'] == ":seeker":
@@ -193,6 +194,7 @@ for card in cards:
     card = set_identities(card)
 #    print(card)
     types.add(card[':type'])
+    factions.add(card[':faction'])
     for s in card[':traits']:
         subtypes.add(s)
 
@@ -242,5 +244,8 @@ f = open("edn/subtypes.edn", "w")
 f.write(subtypes_str)
 f.close()
 
-
-#    pprint.pp(card, width=300, sort_dicts=True)
+print("Writing factions.edn...")
+factions_str = "(" + "\n ".join("{:id " + type + "\n  :name \"" + unslug(type) + "\"}" for type in factions) + ")\n"
+f = open("edn/factions.edn", "w")
+f.write(factions_str)
+f.close()
