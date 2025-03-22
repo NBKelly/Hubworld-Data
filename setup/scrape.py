@@ -164,7 +164,7 @@ def stripped_card(card):
 
 def format_set(card, code, position):
     set_card = {':card-id': card[':id'],
-                ':code': (code + position),
+                ':code': "0" + str(code + position),
                 ':position': position,
                 # TODO - are agents singleton? Is 3 the right number?
                 ':quantity': 3,
@@ -176,22 +176,29 @@ set_cards = []
 types = set()
 subtypes = set()
 
+def set_identities(card):
+    if card[':type'] == ":seeker":
+        card[':base-link'] = 0
+        card[':influence-limit'] = 15
+        card[':minimum-deck-size'] = 30
+    return card
+
 for card in cards:
     formatted_card = format_card(stripped_card(card))
     f = open("edn/cards/" + card[':id'] + ".edn", "w")
     f.write(formatted_card + "\n")
     f.close()
 
-    position += 1
     set_cards += [format_set(card, code, position)]
-
+    card = set_identities(card)
 #    print(card)
     types.add(card[':type'])
     for s in card[':traits']:
         subtypes.add(s)
 
     print("Downloading " + card[':url'] + "...")
-    os.system('wget -q -O img/' + str(code + position) + ".webp \"" + card[':url'] + '"')
+    os.system('wget -q -O img/' + "0" + str(code + position) + ".webp \"" + card[':url'] + '"')
+    position += 1
 #    print(format_card(card))
 
 # write the set-cards file
