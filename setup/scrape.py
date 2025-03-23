@@ -18,6 +18,9 @@ def slugify(s):
 def unslug(s):
     return re.sub(r'-', ' ', s[1:]).capitalize()
 
+def unslug_title(s):
+    return re.sub(r'-', ' ', s[1:]).title()
+
 def get_title(soup, card):
     data = soup.find('h1', class_="text-3xl")
     titles = data.find_all("div")
@@ -167,7 +170,7 @@ def format_set(card, code, position):
                 ':code': "0" + str(code + position),
                 ':position': position,
                 # TODO - are agents singleton? Is 3 the right number?
-                ':quantity': 3,
+                ':quantity': 1 if card[':type'] == ":seeker" else 2,
                 ':set-id': 'pre-release'}
     return format_card(set_card)
 
@@ -181,7 +184,7 @@ def set_identities(card):
     if card[':type'] == ":seeker":
         card[':base-link'] = 0
         card[':influence-limit'] = 15
-        card[':minimum-deck-size'] = 30
+        card[':minimum-deck-size'] = 36
     return card
 
 for card in cards:
@@ -245,7 +248,7 @@ f.write(subtypes_str)
 f.close()
 
 print("Writing factions.edn...")
-factions_str = "(" + "\n ".join("{:id " + type + "\n  :name \"" + unslug(type) + "\"}" for type in factions) + ")\n"
+factions_str = "(" + "\n ".join("{:id " + type + "\n  :name \"" + unslug_title(type) + "\"}" for type in factions) + ")\n"
 f = open("edn/factions.edn", "w")
 f.write(factions_str)
 f.close()

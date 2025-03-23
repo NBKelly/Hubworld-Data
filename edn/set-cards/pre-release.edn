@@ -2,125 +2,125 @@
  {:card-id "abnus-orzo"
  :code "01001"
  :position 1
- :quantity 3
+ :quantity 1
  :set-id "pre-release"}
  {:card-id "auntie-ruth"
  :code "01002"
  :position 2
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "barbican-gate"
  :code "01003"
  :position 3
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "calling-in-favors"
  :code "01004"
  :position 4
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "canal-network"
  :code "01005"
  :position 5
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "capricious-informant"
  :code "01006"
  :position 6
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "chairman-bo-pax"
  :code "01007"
  :position 7
- :quantity 3
+ :quantity 1
  :set-id "pre-release"}
  {:card-id "disagreeable-inspector"
  :code "01008"
  :position 8
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "doctor-twilight"
  :code "01009"
  :position 9
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "eye-enforcers"
  :code "01010"
  :position 10
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "fun-run"
  :code "01011"
  :position 11
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "gargala-larga"
  :code "01012"
  :position 12
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "goldie-xin"
  :code "01013"
  :position 13
- :quantity 3
+ :quantity 1
  :set-id "pre-release"}
  {:card-id "infiltrate"
  :code "01014"
  :position 14
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "jayko-ace"
  :code "01015"
  :position 15
- :quantity 3
+ :quantity 1
  :set-id "pre-release"}
  {:card-id "kryzar-the-rat"
  :code "01016"
  :position 16
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "likely-a-trap"
  :code "01017"
  :position 17
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "rory-bug"
  :code "01018"
  :position 18
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "sergeant-cole"
  :code "01019"
  :position 19
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "shardwinner"
  :code "01020"
  :position 20
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "smooth-handoff"
  :code "01021"
  :position 21
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "tele-mail-cluster"
  :code "01022"
  :position 22
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "the-dragon-s-hoard"
  :code "01023"
  :position 23
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "transit-station"
  :code "01024"
  :position 24
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}
  {:card-id "waterway-ferry"
  :code "01025"
  :position 25
- :quantity 3
+ :quantity 2
  :set-id "pre-release"}]
