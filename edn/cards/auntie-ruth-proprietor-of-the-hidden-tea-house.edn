@@ -1,16 +1,17 @@
-{:barrier 3
+{:alias "Auntie Ruth"
+ :barrier 3
  :collection-icons :shard
  :faction :omniworks
- :id "auntie-ruth"
+ :id "auntie-ruth-proprietor-of-the-hidden-tea-house"
  :presence 2
  :shard-cost 4
  :stripped-text "Cipher – Engaged player loses (Action). 
 (Reaction) After this card is forged, choose a player: They draw 3 cards."
- :stripped-title "Auntie Ruth"
+ :stripped-title "Auntie Ruth: Proprietor of the Hidden Tea House"
  :subtitle "Proprietor of the Hidden Tea House"
  :text "Cipher – Engaged player loses <strong>(Action)</strong>.<br/> <hr class="border-black opacity-20 my-1"/>
 <strong>(Reaction) After this card is forged, choose a player:</strong> They draw 3 cards."
- :title "Auntie Ruth"
+ :title "Auntie Ruth: Proprietor of the Hidden Tea House"
  :subtypes [:paragon]
  :type :agent
  :uniqueness true}

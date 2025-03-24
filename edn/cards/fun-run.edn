@@ -1,8 +1,10 @@
-{:faction :the-remnants
+{:alias "Fun Run"
+ :faction :the-remnants
  :id "fun-run"
  :shard-cost 0
  :stripped-text "(Reaction) After you complete a breach on a Commons: Gain 3 Shard."
  :stripped-title "Fun Run"
+ :subtitle ""
  :text "<strong>(Reaction) After you complete a breach on a Commons:</strong> Gain 3 Shard."
  :title "Fun Run"
  :subtypes [:tactic]

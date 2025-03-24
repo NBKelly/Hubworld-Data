@@ -1,4 +1,5 @@
-{:barrier 1
+{:alias "Transit Station"
+ :barrier 1
  :faction :old-aidalon
  :id "transit-station"
  :presence 1
@@ -6,6 +7,7 @@
  :stripped-text "While this card is in your front row: It gets +4 Presence. 
 While this card is in your middle row: It gets +2 Barrier."
  :stripped-title "Transit Station"
+ :subtitle ""
  :text "<strong>While this card is in your front row:</strong> It gets +4 Presence.<br/> <hr class="border-black opacity-20 my-1"/>
 <strong>While this card is in your middle row:</strong> It gets +2 Barrier."
  :title "Transit Station"

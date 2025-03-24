@@ -1,10 +1,10 @@
 [
- {:card-id "abnus-orzo"
+ {:card-id "abnus-orzo-tireless-investigator"
  :code "01001"
  :position 1
  :quantity 1
  :set-id "pre-release"}
- {:card-id "auntie-ruth"
+ {:card-id "auntie-ruth-proprietor-of-the-hidden-tea-house"
  :code "01002"
  :position 2
  :quantity 2
@@ -29,7 +29,7 @@
  :position 6
  :quantity 2
  :set-id "pre-release"}
- {:card-id "chairman-bo-pax"
+ {:card-id "chairman-bo-pax-heir-to-pax-industries"
  :code "01007"
  :position 7
  :quantity 1
@@ -39,7 +39,7 @@
  :position 8
  :quantity 2
  :set-id "pre-release"}
- {:card-id "doctor-twilight"
+ {:card-id "doctor-twilight-dream-surgeon"
  :code "01009"
  :position 9
  :quantity 2
@@ -54,12 +54,12 @@
  :position 11
  :quantity 2
  :set-id "pre-release"}
- {:card-id "gargala-larga"
+ {:card-id "gargala-larga-imperator-of-growth"
  :code "01012"
  :position 12
  :quantity 2
  :set-id "pre-release"}
- {:card-id "goldie-xin"
+ {:card-id "goldie-xin-tinkering-technician"
  :code "01013"
  :position 13
  :quantity 1
@@ -69,12 +69,12 @@
  :position 14
  :quantity 2
  :set-id "pre-release"}
- {:card-id "jayko-ace"
+ {:card-id "jayko-ace-boisterous-troublemakers"
  :code "01015"
  :position 15
  :quantity 1
  :set-id "pre-release"}
- {:card-id "kryzar-the-rat"
+ {:card-id "kryzar-the-rat-navigator-of-the-cortex-maze"
  :code "01016"
  :position 16
  :quantity 2
@@ -84,12 +84,12 @@
  :position 17
  :quantity 2
  :set-id "pre-release"}
- {:card-id "rory-bug"
+ {:card-id "rory-bug-you-catch-it-we-fetch-it-"
  :code "01018"
  :position 18
  :quantity 2
  :set-id "pre-release"}
- {:card-id "sergeant-cole"
+ {:card-id "sergeant-cole-precinct-rd-level"
  :code "01019"
  :position 19
  :quantity 2

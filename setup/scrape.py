@@ -24,21 +24,27 @@ def unslug_title(s):
 def get_title(soup, card):
     data = soup.find('h1', class_="text-3xl")
     titles = data.find_all("div")
-
+    if len(titles) == 2:
+        subtitle = titles[1].get_text().strip()
+        card[':subtitle'] = subtitle
+        subtitle = ": " + subtitle
+    else:
+        subtitle = ""
+        card[':subtitle'] = ""
     #"·"
+
     title = titles[0].get_text().strip()
     if title.startswith('·'):
         title = title[1:]
         card[':uniqueness'] = True
     else:
         card[':uniqueness'] = False
-    card[':title'] = title
-    card[':stripped-title'] = title
-    card[':id'] = slugify(title)
 
-    if len(titles) == 2:
-        subtitle = titles[1].get_text().strip()
-        card[':subtitle'] = subtitle
+    card[':title'] = title + subtitle
+    card[':stripped-title'] = title + subtitle
+    card[':alias'] = title
+    card[':id'] = slugify(title + subtitle)
+
 
     return card
 
