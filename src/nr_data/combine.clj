@@ -185,7 +185,8 @@
             :uniqueness (:uniqueness card)
             ;; these are the hubworld keys
             :alias (:alias card) ;; alias is the name for unique card purposes
-            :trash (:presence-cost card) ;;:trash-cost
+            :trash nil
+            :presence (:presence-cost card) ;;:trash-cost
             :barrier (:barrier card)
             :collection-icons (:collection-icons card)
             :draw-limit (:draw-limit card)
