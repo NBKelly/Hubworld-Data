@@ -3,13 +3,12 @@
  :collection-icons :shard
  :faction :omniworks
  :id "rory-bug-you-catch-it-we-fetch-it-"
- :illustrator ["Joe Banner" "Evan Simonet"]
  :presence 2
  :shard-cost 0
- :stripped-text "(Instant) Exhaust this card and lose 2 Shard: Shift this card."
+ :stripped-text "[Instant] Exhaust this card and lose 2 [Credit]: Shift this card."
  :stripped-title "Rory & Bug: “You Catch It, We Fetch It!”"
  :subtitle "“You Catch It, We Fetch It!”"
- :text "<strong>(Instant) Exhaust this card and lose 2 Shard:</strong> Shift this card."
+ :text "<strong>[Instant] Exhaust this card and lose 2 [Credit]:</strong> Shift this card."
  :title "Rory & Bug: “You Catch It, We Fetch It!”"
  :subtypes [:renegade]
  :type :agent

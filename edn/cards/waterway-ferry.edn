@@ -2,13 +2,12 @@
  :barrier 2
  :faction :omniworks
  :id "waterway-ferry"
- :illustrator ["Evan Simonet"]
  :presence 3
  :shard-cost 1
- :stripped-text "(Reaction) After this card is forged: Shift it."
+ :stripped-text "[Reaction] After this card is forged: Shift it."
  :stripped-title "Waterway Ferry"
  :subtitle ""
- :text "<strong>(Reaction) After this card is forged:</strong> Shift it."
+ :text "<strong>[Reaction] After this card is forged:</strong> Shift it."
  :title "Waterway Ferry"
  :subtypes [:contraption]
  :type :obstacle

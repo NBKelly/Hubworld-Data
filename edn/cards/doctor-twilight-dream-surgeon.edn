@@ -3,13 +3,12 @@
  :collection-icons :draw
  :faction :the-collective
  :id "doctor-twilight-dream-surgeon"
- :illustrator ["Evan Simonet"]
  :presence 3
  :shard-cost 3
- :stripped-text "(Instant) Exhaust this card and exile 1 card from your Archives: Gain 3 Shard."
+ :stripped-text "[Instant] Exhaust this card and exile 1 card from your Archives: Gain 3 [Credit]."
  :stripped-title "Doctor Twilight: Dream Surgeon"
  :subtitle "Dream Surgeon"
- :text "<strong>(Instant) Exhaust this card and exile 1 card from your Archives:</strong> Gain 3 Shard."
+ :text "<strong>[Instant] Exhaust this card and exile 1 card from your Archives:</strong> Gain 3 [Credit]."
  :title "Doctor Twilight: Dream Surgeon"
  :subtypes [:visionary]
  :type :agent

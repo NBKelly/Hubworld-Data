@@ -3,13 +3,12 @@
  :collection-icons :shard
  :faction :the-remnants
  :id "kryzar-the-rat-navigator-of-the-cortex-maze"
- :illustrator ["Joe Banner" "Evan Simonet"]
  :presence 3
  :shard-cost 2
- :stripped-text "(Reaction) As you approach a district, exhaust this card: Stage 1 card (you can stage agents, obstacles, and sources)."
+ :stripped-text "[Reaction] As you approach a district, exhaust this card: Stage 1 card (you can stage agents, obstacles, and sources)."
  :stripped-title "Kryzar the Rat: Navigator of the Cortex Maze"
  :subtitle "Navigator of the Cortex Maze"
- :text "<strong>(Reaction) As you approach a district, exhaust this card:</strong> Stage 1 card <em>(you can stage agents, obstacles, and sources)</em>."
+ :text "<strong>[Reaction] As you approach a district, exhaust this card:</strong> Stage 1 card <em>(you can stage agents, obstacles, and sources)</em>."
  :title "Kryzar the Rat: Navigator of the Cortex Maze"
  :subtypes [:enforcer]
  :type :agent

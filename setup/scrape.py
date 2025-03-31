@@ -99,7 +99,7 @@ def process_row(row, card):
     for key in list_text_keys:
         if text.startswith(key):
             vals = re.split(r'   +', text[len(key):].strip())
-            card[":" + slugify(key)] = [item for item in vals if re.match(r'[a-zA-Z]', item)]
+            card[":" + slugify(key)] = ', '.join(item for item in vals if re.match(r'[a-zA-Z]', item))
             return card
 
     print("Key Mismatch: ")
@@ -113,8 +113,8 @@ def process_card_text(soup, card):
     text_blocks = [t.contents for t in texts][0]
     stripped_text = [t.get_text() for t in texts]
 
-    card[':stripped-text'] = fix_quotes(stripped_text[0])
-    card[':text'] = fix_quotes("".join(str(t) for t in text_blocks))
+    card[':stripped-text'] = tokenize(fix_quotes(stripped_text[0]))
+    card[':text'] = tokenize(fix_quotes("".join(str(t) for t in text_blocks)))
 
     return card
 
@@ -180,7 +180,7 @@ position = 1
 
 def stripped_card(card):
     c = dict(card)
-#    c.pop(':illustrator', None)
+    c.pop(':illustrator', None)
     c.pop(':url', None)
     return c
 
@@ -188,6 +188,7 @@ def format_set(card, code, position):
     set_card = {':card-id': card[':id'],
                 ':code': "0" + str(code + position),
                 ':position': position,
+                ':illustrator': card[':illustrator'],
                 # TODO - are agents singleton? Is 3 the right number?
                 ':quantity': 1 if card[':type'] == ":seeker" else 2,
                 ':set-id': 'pre-release'}

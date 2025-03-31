@@ -4,12 +4,11 @@
  :draw-limit 5
  :faction :the-collective
  :id "abnus-orzo-tireless-investigator"
- :illustrator ["Evan Simonet"]
  :shard-limit 10
- :stripped-text "(Reaction) After you complete a breach on a player’s Archives, exhaust this card and archive the top card of your Commons: Archive 1 card at random from that player’s Council."
+ :stripped-text "[Reaction] After you complete a breach on a player’s Archives, exhaust this card and archive the top card of your Commons: Archive 1 card at random from that player’s Council."
  :stripped-title "Abnus Orzo: Tireless Investigator"
  :subtitle "Tireless Investigator"
- :text "<strong>(Reaction) After you complete a breach on a player’s Archives, exhaust this card and archive the top card of your Commons:</strong> Archive 1 card at random from that player’s Council."
+ :text "<strong>[Reaction] After you complete a breach on a player’s Archives, exhaust this card and archive the top card of your Commons:</strong> Archive 1 card at random from that player’s Council."
  :title "Abnus Orzo: Tireless Investigator"
  :subtypes [:enforcer]
  :type :seeker

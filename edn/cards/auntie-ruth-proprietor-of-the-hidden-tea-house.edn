@@ -3,15 +3,14 @@
  :collection-icons :shard
  :faction :omniworks
  :id "auntie-ruth-proprietor-of-the-hidden-tea-house"
- :illustrator ["Robert Brantseg" "Evan Simonet"]
  :presence 2
  :shard-cost 4
- :stripped-text "Cipher – Engaged player loses (Action). 
-(Reaction) After this card is forged, choose a player: They draw 3 cards."
+ :stripped-text "Cipher – Engaged player loses [Click]. 
+[Reaction] After this card is forged, choose a player: They draw 3 cards."
  :stripped-title "Auntie Ruth: Proprietor of the Hidden Tea House"
  :subtitle "Proprietor of the Hidden Tea House"
- :text "Cipher – Engaged player loses <strong>(Action)</strong>.<br/> <hr class=\"border-black opacity-20 my-1\"/>
-<strong>(Reaction) After this card is forged, choose a player:</strong> They draw 3 cards."
+ :text "Cipher – Engaged player loses <strong>[Click]</strong>.<br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Reaction] After this card is forged, choose a player:</strong> They draw 3 cards."
  :title "Auntie Ruth: Proprietor of the Hidden Tea House"
  :subtypes [:paragon]
  :type :agent

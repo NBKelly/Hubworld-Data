@@ -1,126 +1,151 @@
 [
  {:card-id "abnus-orzo-tireless-investigator"
  :code "01001"
+ :illustrator "Evan Simonet"
  :position 1
  :quantity 1
  :set-id "pre-release"}
  {:card-id "auntie-ruth-proprietor-of-the-hidden-tea-house"
  :code "01002"
+ :illustrator "Robert Brantseg, Evan Simonet"
  :position 2
  :quantity 2
  :set-id "pre-release"}
  {:card-id "barbican-gate"
  :code "01003"
+ :illustrator "Evan Simonet"
  :position 3
  :quantity 2
  :set-id "pre-release"}
  {:card-id "calling-in-favors"
  :code "01004"
+ :illustrator "Evan Simonet"
  :position 4
  :quantity 2
  :set-id "pre-release"}
  {:card-id "canal-network"
  :code "01005"
+ :illustrator "Evan Simonet"
  :position 5
  :quantity 2
  :set-id "pre-release"}
  {:card-id "capricious-informant"
  :code "01006"
+ :illustrator "Robert Brantseg, Evan Simonet"
  :position 6
  :quantity 2
  :set-id "pre-release"}
  {:card-id "chairman-bo-pax-heir-to-pax-industries"
  :code "01007"
+ :illustrator "Evan Simonet"
  :position 7
  :quantity 1
  :set-id "pre-release"}
  {:card-id "disagreeable-inspector"
  :code "01008"
+ :illustrator "Evan Simonet"
  :position 8
  :quantity 2
  :set-id "pre-release"}
  {:card-id "doctor-twilight-dream-surgeon"
  :code "01009"
+ :illustrator "Evan Simonet"
  :position 9
  :quantity 2
  :set-id "pre-release"}
  {:card-id "eye-enforcers"
  :code "01010"
+ :illustrator "Evan Simonet"
  :position 10
  :quantity 2
  :set-id "pre-release"}
  {:card-id "fun-run"
  :code "01011"
+ :illustrator "Evan Simonet"
  :position 11
  :quantity 2
  :set-id "pre-release"}
  {:card-id "gargala-larga-imperator-of-growth"
  :code "01012"
+ :illustrator "Evan Simonet"
  :position 12
  :quantity 2
  :set-id "pre-release"}
  {:card-id "goldie-xin-tinkering-technician"
  :code "01013"
+ :illustrator "Evan Simonet"
  :position 13
  :quantity 1
  :set-id "pre-release"}
  {:card-id "infiltrate"
  :code "01014"
+ :illustrator "Evan Simonet"
  :position 14
  :quantity 2
  :set-id "pre-release"}
  {:card-id "jayko-ace-boisterous-troublemakers"
  :code "01015"
+ :illustrator "Andrew Navaro, Evan Simonet"
  :position 15
  :quantity 1
  :set-id "pre-release"}
  {:card-id "kryzar-the-rat-navigator-of-the-cortex-maze"
  :code "01016"
+ :illustrator "Joe Banner, Evan Simonet"
  :position 16
  :quantity 2
  :set-id "pre-release"}
  {:card-id "likely-a-trap"
  :code "01017"
+ :illustrator "Joe Banner, Evan Simonet"
  :position 17
  :quantity 2
  :set-id "pre-release"}
  {:card-id "rory-bug-you-catch-it-we-fetch-it-"
  :code "01018"
+ :illustrator "Joe Banner, Evan Simonet"
  :position 18
  :quantity 2
  :set-id "pre-release"}
  {:card-id "sergeant-cole-precinct-rd-level"
  :code "01019"
+ :illustrator "Evan Simonet"
  :position 19
  :quantity 2
  :set-id "pre-release"}
  {:card-id "shardwinner"
  :code "01020"
+ :illustrator "Joe Banner, Evan Simonet"
  :position 20
  :quantity 2
  :set-id "pre-release"}
  {:card-id "smooth-handoff"
  :code "01021"
+ :illustrator "Evan Simonet"
  :position 21
  :quantity 2
  :set-id "pre-release"}
  {:card-id "tele-mail-cluster"
  :code "01022"
+ :illustrator "Evan Simonet"
  :position 22
  :quantity 2
  :set-id "pre-release"}
  {:card-id "the-dragon-s-hoard"
  :code "01023"
+ :illustrator "Evan Simonet"
  :position 23
  :quantity 2
  :set-id "pre-release"}
  {:card-id "transit-station"
  :code "01024"
+ :illustrator "Joe Banner, Evan Simonet"
  :position 24
  :quantity 2
  :set-id "pre-release"}
  {:card-id "waterway-ferry"
  :code "01025"
+ :illustrator "Evan Simonet"
  :position 25
  :quantity 2
  :set-id "pre-release"}]

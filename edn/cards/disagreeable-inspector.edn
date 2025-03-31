@@ -2,13 +2,12 @@
  :collection-icons :shard
  :faction :old-aidalon
  :id "disagreeable-inspector"
- :illustrator ["Evan Simonet"]
  :presence 2
  :shard-cost 1
- :stripped-text "(Reaction) As you confront a card, exhaust this card: That card gets -2 Barrier until the confrontation ends."
+ :stripped-text "[Reaction] As you confront a card, exhaust this card: That card gets -2 Barrier until the confrontation ends."
  :stripped-title "Disagreeable Inspector"
  :subtitle ""
- :text "<strong>(Reaction) As you confront a card, exhaust this card:</strong> That card gets -2 Barrier until the confrontation ends."
+ :text "<strong>[Reaction] As you confront a card, exhaust this card:</strong> That card gets -2 Barrier until the confrontation ends."
  :title "Disagreeable Inspector"
  :subtypes [:persona]
  :type :source

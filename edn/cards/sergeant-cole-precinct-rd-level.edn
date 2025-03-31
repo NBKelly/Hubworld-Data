@@ -3,15 +3,14 @@
  :collection-icons :shard
  :faction :the-collective
  :id "sergeant-cole-precinct-rd-level"
- :illustrator ["Evan Simonet"]
  :presence 1
  :shard-cost 1
  :stripped-text "Cipher – Engaged player exhausts a card in their Archives path. 
-(Reaction) After you complete a breach on a player’s Archives, exhaust this card: Archive the top 2 cards of their Commons."
+[Reaction] After you complete a breach on a player’s Archives, exhaust this card: Archive the top 2 cards of their Commons."
  :stripped-title "Sergeant Cole: Precinct 204, 3rd Level"
  :subtitle "Precinct 204, 3rd Level"
  :text "Cipher – Engaged player exhausts a card in their Archives path.<br/> <hr class=\"border-black opacity-20 my-1\"/>
-<strong>(Reaction) After you complete a breach on a player’s Archives, exhaust this card:</strong> Archive the top 2 cards of their Commons."
+<strong>[Reaction] After you complete a breach on a player’s Archives, exhaust this card:</strong> Archive the top 2 cards of their Commons."
  :title "Sergeant Cole: Precinct 204, 3rd Level"
  :subtypes [:paragon]
  :type :agent
