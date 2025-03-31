@@ -2,13 +2,14 @@
  :barrier 1
  :faction :the-collective
  :id "barbican-gate"
+ :illustrator ["Evan Simonet"]
  :presence 4
  :shard-cost 1
  :stripped-text "(Confront): Engaged player may exhaust a forged card in their grid. If they do not, gain 2 Shard. 
 (Discover): Gain 1 Shard."
  :stripped-title "Barbican Gate"
  :subtitle ""
- :text "<strong>(Confront):</strong> Engaged player may exhaust a forged card in their grid. If they do not, gain 2 Shard.<br/> <hr class="border-black opacity-20 my-1"/>
+ :text "<strong>(Confront):</strong> Engaged player may exhaust a forged card in their grid. If they do not, gain 2 Shard.<br/> <hr class=\"border-black opacity-20 my-1\"/>
 <strong>(Discover):</strong> Gain 1 Shard."
  :title "Barbican Gate"
  :subtypes [:location]

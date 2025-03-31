@@ -1,6 +1,7 @@
 {:alias "Smooth Handoff"
  :faction :omniworks
  :id "smooth-handoff"
+ :illustrator ["Evan Simonet"]
  :shard-cost 0
  :stripped-text "(Action) Choose a player: They lose 1 Heat and draw 1 card."
  :stripped-title "Smooth Handoff"

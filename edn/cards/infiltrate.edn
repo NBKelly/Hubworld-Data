@@ -1,6 +1,7 @@
 {:alias "Infiltrate"
  :faction :omniworks
  :id "infiltrate"
+ :illustrator ["Evan Simonet"]
  :shard-cost 1
  :stripped-text "(Reaction) As you discover cards in a Council during a breach: Discover +2 cards."
  :stripped-title "Infiltrate"

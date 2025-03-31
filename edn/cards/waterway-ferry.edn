@@ -2,6 +2,7 @@
  :barrier 2
  :faction :omniworks
  :id "waterway-ferry"
+ :illustrator ["Evan Simonet"]
  :presence 3
  :shard-cost 1
  :stripped-text "(Reaction) After this card is forged: Shift it."

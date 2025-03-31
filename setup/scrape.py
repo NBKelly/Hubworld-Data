@@ -21,6 +21,19 @@ def unslug(s):
 def unslug_title(s):
     return re.sub(r'-', ' ', s[1:]).title()
 
+def fix_quotes(s):
+    return s.replace('"', '\\"')
+
+def tokenize(s):
+    s = s.replace('(Action Action)', '[Click][Click]')
+    s = s.replace('(Action)', '[Click]')
+    s = s.replace('(Instant)', '[Instant]')
+    s = s.replace('(Reaction)', '[Reaction]')
+    s = s.replace('(Confront)', '[Confront]')
+    s = s.replace('(Discover)', '[Discover]')
+    s = s.replace('Shard', '[Credit]')
+    return s
+
 def get_title(soup, card):
     data = soup.find('h1', class_="text-3xl")
     titles = data.find_all("div")
@@ -100,8 +113,8 @@ def process_card_text(soup, card):
     text_blocks = [t.contents for t in texts][0]
     stripped_text = [t.get_text() for t in texts]
 
-    card[':stripped-text'] = stripped_text[0]
-    card[':text'] = "".join(str(t) for t in text_blocks)
+    card[':stripped-text'] = fix_quotes(stripped_text[0])
+    card[':text'] = fix_quotes("".join(str(t) for t in text_blocks))
 
     return card
 
@@ -167,7 +180,7 @@ position = 1
 
 def stripped_card(card):
     c = dict(card)
-    c.pop(':illustrator', None)
+#    c.pop(':illustrator', None)
     c.pop(':url', None)
     return c
 

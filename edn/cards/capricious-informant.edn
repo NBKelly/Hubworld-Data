@@ -2,6 +2,7 @@
  :collection-icons :shard
  :faction :the-collective
  :id "capricious-informant"
+ :illustrator ["Robert Brantseg" "Evan Simonet"]
  :presence 4
  :shard-cost 3
  :stripped-text "(Instant) Exhaust this card and look at the top 2 cards of your Commons: Add 1 of those to your Council and archive the other."

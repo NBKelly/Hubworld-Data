@@ -4,6 +4,7 @@
  :draw-limit 5
  :faction :old-aidalon
  :id "chairman-bo-pax-heir-to-pax-industries"
+ :illustrator ["Evan Simonet"]
  :shard-limit 10
  :stripped-text "(Action) If you have more cards in your front row than your rival, exhaust this card: They gain 1 Heat."
  :stripped-title "Chairman Bo Pax: Heir to Pax Industries"

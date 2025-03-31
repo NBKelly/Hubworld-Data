@@ -1,8 +1,8 @@
-({:id :the-remnants
-  :name "The Remnants"}
- {:id :omniworks
-  :name "Omniworks"}
- {:id :old-aidalon
+({:id :old-aidalon
   :name "Old Aidalon"}
+ {:id :the-remnants
+  :name "The Remnants"}
  {:id :the-collective
-  :name "The Collective"})
+  :name "The Collective"}
+ {:id :omniworks
+  :name "Omniworks"})

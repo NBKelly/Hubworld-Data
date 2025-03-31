@@ -3,6 +3,7 @@
  :collection-icons :shard
  :faction :omniworks
  :id "rory-bug-you-catch-it-we-fetch-it-"
+ :illustrator ["Joe Banner" "Evan Simonet"]
  :presence 2
  :shard-cost 0
  :stripped-text "(Instant) Exhaust this card and lose 2 Shard: Shift this card."

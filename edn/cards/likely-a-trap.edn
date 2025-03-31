@@ -1,6 +1,7 @@
 {:alias "Likely a Trap"
  :faction :the-collective
  :id "likely-a-trap"
+ :illustrator ["Joe Banner" "Evan Simonet"]
  :shard-cost 0
  :stripped-text "(Reaction) After a player completes an encounter with an unforged card in your grid: They may discover that card. If they do not, archive the top 2 cards of their Commons."
  :stripped-title "Likely a Trap"

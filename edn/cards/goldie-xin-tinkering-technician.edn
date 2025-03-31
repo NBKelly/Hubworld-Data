@@ -4,6 +4,7 @@
  :draw-limit 5
  :faction :omniworks
  :id "goldie-xin-tinkering-technician"
+ :illustrator ["Evan Simonet"]
  :shard-limit 10
  :stripped-text "(Action) If you have fewer Heat in your pool than your rival, exhaust this card: Gain 3 Shard."
  :stripped-title "Goldie Xin: Tinkering Technician"

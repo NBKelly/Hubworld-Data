@@ -1,22 +1,22 @@
-({:id :location
-  :name "Location"}
- {:id :contraption
-  :name "Contraption"}
- {:id :influence
-  :name "Influence"}
- {:id :commerce
-  :name "Commerce"}
- {:id :enforcer
-  :name "Enforcer"}
- {:id :tactic
+({:id :tactic
   :name "Tactic"}
- {:id :subterfuge
-  :name "Subterfuge"}
  {:id :renegade
   :name "Renegade"}
- {:id :persona
-  :name "Persona"}
+ {:id :commerce
+  :name "Commerce"}
  {:id :paragon
   :name "Paragon"}
+ {:id :subterfuge
+  :name "Subterfuge"}
  {:id :visionary
-  :name "Visionary"})
+  :name "Visionary"}
+ {:id :contraption
+  :name "Contraption"}
+ {:id :enforcer
+  :name "Enforcer"}
+ {:id :influence
+  :name "Influence"}
+ {:id :persona
+  :name "Persona"}
+ {:id :location
+  :name "Location"})
