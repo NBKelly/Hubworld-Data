@@ -2,10 +2,10 @@
  :faction :omniworks
  :id "smooth-handoff"
  :shard-cost 0
- :stripped-text "[Click] Choose a player: They lose 1 Heat and draw 1 card."
+ :stripped-text "[Click] Choose a player: They lose 1 [Heat] and draw 1 card."
  :stripped-title "Smooth Handoff"
  :subtitle ""
- :text "<strong>[Click] Choose a player:</strong> They lose 1 Heat and draw 1 card."
+ :text "<strong>[Click] Choose a player:</strong> They lose 1 [Heat] and draw 1 card."
  :title "Smooth Handoff"
  :subtypes [:subterfuge]
  :type :moment

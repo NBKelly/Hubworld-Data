@@ -5,10 +5,10 @@
  :faction :omniworks
  :id "goldie-xin-tinkering-technician"
  :shard-limit 10
- :stripped-text "[Click] If you have fewer Heat in your pool than your rival, exhaust this card: Gain 3 [Credit]."
+ :stripped-text "[Click] If you have fewer [Heat] in your pool than your rival, exhaust this card: Gain 3 [Credit]."
  :stripped-title "Goldie Xin: Tinkering Technician"
  :subtitle "Tinkering Technician"
- :text "<strong>[Click] If you have fewer Heat in your pool than your rival, exhaust this card:</strong> Gain 3 [Credit]."
+ :text "<strong>[Click] If you have fewer [Heat] in your pool than your rival, exhaust this card:</strong> Gain 3 [Credit]."
  :title "Goldie Xin: Tinkering Technician"
  :subtypes [:paragon]
  :type :seeker

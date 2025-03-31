@@ -32,6 +32,7 @@ def tokenize(s):
     s = s.replace('(Confront)', '[Confront]')
     s = s.replace('(Discover)', '[Discover]')
     s = s.replace('Shard', '[Credit]')
+    s = s.replace('Heat', '[Heat]')
     return s
 
 def get_title(soup, card):
