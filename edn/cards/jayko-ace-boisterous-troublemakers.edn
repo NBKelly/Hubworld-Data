@@ -1,5 +1,4 @@
-{:action-limit 3
- :alias "Jayko & Ace"
+{:alias "Jayko & Ace"
  :collection-icons :draw
  :draw-limit 5
  :faction :the-remnants
@@ -12,4 +11,4 @@
  :title "Jayko & Ace: Boisterous Troublemakers"
  :subtypes [:renegade]
  :type :seeker
- :uniqueness true}
+ :uniqueness nil}

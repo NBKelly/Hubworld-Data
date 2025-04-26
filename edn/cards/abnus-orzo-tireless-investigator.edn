@@ -1,5 +1,4 @@
-{:action-limit 3
- :alias "Abnus Orzo"
+{:alias "Abnus Orzo"
  :collection-icons :shard
  :draw-limit 5
  :faction :the-collective
@@ -12,4 +11,4 @@
  :title "Abnus Orzo: Tireless Investigator"
  :subtypes [:enforcer]
  :type :seeker
- :uniqueness true}
+ :uniqueness nil}

@@ -4,12 +4,12 @@
  :id "eye-enforcers"
  :presence 5
  :shard-cost 4
- :stripped-text "[Confront] Lose 1 [Credit]: Archive 1 card at random from engaged player’s Council. 
-[Discover] If this card is in your grid, archive this card: Archive 2 cards at random from engaged player’s Council."
+ :stripped-text "[Confront] Lose 1 [Credit]: Archive 1 card at random from engaging player’s Council. 
+[Discover] If this card is in your grid, archive it: Archive 2 cards at random from engaging player’s Council."
  :stripped-title "Eye Enforcers"
  :subtitle ""
- :text "<strong>[Confront] Lose 1 [Credit]:</strong> Archive 1 card at random from engaged player’s Council.<br/> <hr class=\"border-black opacity-20 my-1\"/>
-<strong>[Discover] If this card is in your grid, archive this card:</strong> Archive 2 cards at random from engaged player’s Council."
+ :text "<strong>[Confront] Lose 1 [Credit]:</strong> Archive 1 card at random from engaging player’s Council.<br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Discover] If this card is in your grid, archive it:</strong> Archive 2 cards at random from engaging player’s Council."
  :title "Eye Enforcers"
  :subtypes [:persona]
  :type :obstacle

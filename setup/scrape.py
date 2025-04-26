@@ -69,7 +69,7 @@ def get_image_url(soup, card):
 
 basic_keys = []
 numeric_keys = ["Action Limit", "Draw Limit", "Shard Limit", "Shard Cost", "Barrier", "Presence"]
-slugged_keys = ["Faction", "Type", "Collection Icons"]
+slugged_keys = ["Affiliation", "Type", "Collection Icons"]
 list_keys = ["Traits"]
 list_text_keys = ["Illustrator"]
 
@@ -209,6 +209,8 @@ def set_identities(card):
     return card
 
 for card in cards:
+    card[":faction"] = card[":affiliation"]
+    card.pop(":affiliation", None)
     formatted_card = format_card(stripped_card(card))
     f = open("edn/cards/" + card[':id'] + ".edn", "w")
     f.write(formatted_card + "\n")

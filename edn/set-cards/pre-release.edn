@@ -71,7 +71,7 @@
  :position 12
  :quantity 2
  :set-id "pre-release"}
- {:card-id "goldie-xin-tinkering-technician"
+ {:card-id "goldie-xin-junk-collector"
  :code "01013"
  :illustrator "Evan Simonet"
  :position 13
@@ -101,51 +101,57 @@
  :position 17
  :quantity 2
  :set-id "pre-release"}
- {:card-id "rory-bug-you-catch-it-we-fetch-it-"
+ {:card-id "rory-bug-we-fetch-it-you-catch-it-"
  :code "01018"
  :illustrator "Joe Banner, Evan Simonet"
  :position 18
  :quantity 2
  :set-id "pre-release"}
- {:card-id "sergeant-cole-precinct-rd-level"
+ {:card-id "salvage-rats"
  :code "01019"
- :illustrator "Evan Simonet"
+ :illustrator "Sonderflex"
  :position 19
  :quantity 2
  :set-id "pre-release"}
- {:card-id "shardwinner"
+ {:card-id "sergeant-cole-precinct-rd-level"
  :code "01020"
- :illustrator "Joe Banner, Evan Simonet"
+ :illustrator "Evan Simonet"
  :position 20
  :quantity 2
  :set-id "pre-release"}
- {:card-id "smooth-handoff"
+ {:card-id "shardwinner"
  :code "01021"
- :illustrator "Evan Simonet"
+ :illustrator "Joe Banner, Evan Simonet"
  :position 21
  :quantity 2
  :set-id "pre-release"}
- {:card-id "tele-mail-cluster"
+ {:card-id "smooth-handoff"
  :code "01022"
  :illustrator "Evan Simonet"
  :position 22
  :quantity 2
  :set-id "pre-release"}
- {:card-id "the-dragon-s-hoard"
+ {:card-id "tele-mail-cluster"
  :code "01023"
  :illustrator "Evan Simonet"
  :position 23
  :quantity 2
  :set-id "pre-release"}
- {:card-id "transit-station"
+ {:card-id "the-dragon-s-hoard"
  :code "01024"
- :illustrator "Joe Banner, Evan Simonet"
+ :illustrator "Evan Simonet"
  :position 24
  :quantity 2
  :set-id "pre-release"}
- {:card-id "waterway-ferry"
+ {:card-id "transit-station"
  :code "01025"
- :illustrator "Evan Simonet"
+ :illustrator "Joe Banner, Evan Simonet"
  :position 25
+ :quantity 2
+ :set-id "pre-release"}
+ {:card-id "waterway-ferry"
+ :code "01026"
+ :illustrator "Evan Simonet"
+ :position 26
  :quantity 2
  :set-id "pre-release"}]

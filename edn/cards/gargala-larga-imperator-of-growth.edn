@@ -5,12 +5,10 @@
  :id "gargala-larga-imperator-of-growth"
  :presence 1
  :shard-cost 3
- :stripped-text "Cipher – Engaged player exhausts their seeker. 
-[Instant] Exhaust this card: Unexhaust your seeker."
+ :stripped-text "[Instant] Exhaust this card: Unexhaust your seeker."
  :stripped-title "Gargala Larga: Imperator of Growth"
  :subtitle "Imperator of Growth"
- :text "Cipher – Engaged player exhausts their seeker.<br/> <hr class=\"border-black opacity-20 my-1\"/>
-<strong>[Instant] Exhaust this card:</strong> Unexhaust your seeker."
+ :text "<strong>[Instant] Exhaust this card:</strong> Unexhaust your seeker."
  :title "Gargala Larga: Imperator of Growth"
  :subtypes [:enforcer]
  :type :agent

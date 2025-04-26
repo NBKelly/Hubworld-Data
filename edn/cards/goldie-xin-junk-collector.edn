@@ -1,0 +1,14 @@
+{:alias "Goldie Xin"
+ :collection-icons :shard
+ :draw-limit 5
+ :faction :omniworks
+ :id "goldie-xin-junk-collector"
+ :shard-limit 10
+ :stripped-text "[Click] If you have fewer [Heat] in your pool than your rival, exhaust this card: Gain 3 [Credit]."
+ :stripped-title "Goldie Xin: Junk Collector"
+ :subtitle "Junk Collector"
+ :text "<strong>[Click] If you have fewer [Heat] in your pool than your rival, exhaust this card:</strong> Gain 3 [Credit]."
+ :title "Goldie Xin: Junk Collector"
+ :subtypes [:renegade]
+ :type :seeker
+ :uniqueness nil}

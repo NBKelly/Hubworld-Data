@@ -7,6 +7,6 @@
  :subtitle ""
  :text "<strong>[Reaction] After you complete a breach on a Commons:</strong> Gain 3 [Credit]."
  :title "Fun Run"
- :subtypes [:tactic]
+ :subtypes [:subterfuge :tactic]
  :type :moment
  :uniqueness nil}

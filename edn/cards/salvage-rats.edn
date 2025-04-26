@@ -1,0 +1,16 @@
+{:alias "Salvage Rats"
+ :barrier 0
+ :faction :omniworks
+ :id "salvage-rats"
+ :presence 3
+ :shard-cost 2
+ :stripped-text "Rush. (As an instant, pay this card’s shard cost to stage it forged.) 
+While this card is forged: It gets +1 Barrier for each adjacent unforged card."
+ :stripped-title "Salvage Rats"
+ :subtitle ""
+ :text "Rush. <em>(As an instant, pay this card’s shard cost to stage it forged.)</em><br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>While this card is forged:</strong> It gets +1 Barrier for each adjacent unforged card."
+ :title "Salvage Rats"
+ :subtypes [:persona]
+ :type :obstacle
+ :uniqueness nil}

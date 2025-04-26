@@ -7,6 +7,6 @@
  :subtitle ""
  :text "<strong>[Click] Choose a player:</strong> They lose 1 [Heat] and draw 1 card."
  :title "Smooth Handoff"
- :subtypes [:subterfuge]
+ :subtypes [:subterfuge :tactic]
  :type :moment
  :uniqueness nil}

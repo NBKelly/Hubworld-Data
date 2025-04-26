@@ -1,5 +1,4 @@
-{:action-limit 3
- :alias "Chairman Bo Pax"
+{:alias "Chairman Bo Pax"
  :collection-icons :draw
  :draw-limit 5
  :faction :old-aidalon
@@ -12,4 +11,4 @@
  :title "Chairman Bo Pax: Heir to Pax Industries"
  :subtypes [:visionary]
  :type :seeker
- :uniqueness true}
+ :uniqueness nil}
