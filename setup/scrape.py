@@ -7,7 +7,7 @@ import os
 import re
 import pprint
 
-URL = "https://decksmith.app/hubworldaidalon/cards/"
+URL = "https://decksmith.app/hubworldaidalon/cards/prime-collective/"
 
 with open("setup/urls.data", "r") as urls:
     IDS = [line.rstrip() for line in urls]
@@ -69,7 +69,7 @@ def get_image_url(soup, card):
 
 basic_keys = []
 numeric_keys = ["Action Limit", "Draw Limit", "Shard Limit", "Shard Cost", "Barrier", "Presence"]
-slugged_keys = ["Affiliation", "Type", "Collection Icons"]
+slugged_keys = ["Affiliation", "Type", "Collection Icons", "Set"]
 list_keys = ["Traits"]
 list_text_keys = ["Illustrator"]
 
@@ -88,6 +88,8 @@ def process_row(row, card):
 
     for key in slugged_keys:
         if text.startswith(key):
+            if text.startswith("Affiliation Icons"):
+                return card
             card[":" + slugify(key)] = ":" + slugify(text[len(key):].strip())
             return card
 
@@ -106,6 +108,7 @@ def process_row(row, card):
     print("Key Mismatch: ")
     print(row)
     print(card)
+    print(text)
     exit()
 
 def process_card_text(soup, card):
@@ -191,7 +194,7 @@ def format_set(card, code, position):
                 ':position': position,
                 ':illustrator': card[':illustrator'],
                 # TODO - are agents singleton? Is 3 the right number?
-                ':quantity': 1 if card[':type'] == ":seeker" else 2,
+                ':quantity': 1 if card[':type'] == ":seeker" or card[':type'] == ":agent" else 2,
                 ':set-id': 'pre-release'}
     return format_card(set_card)
 
@@ -211,6 +214,7 @@ def set_identities(card):
 for card in cards:
     card[":faction"] = card[":affiliation"]
     card.pop(":affiliation", None)
+    card.pop(":set", None)
     formatted_card = format_card(stripped_card(card))
     f = open("edn/cards/" + card[':id'] + ".edn", "w")
     f.write(formatted_card + "\n")

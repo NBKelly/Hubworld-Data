@@ -4,12 +4,12 @@
  :id "canal-network"
  :presence 5
  :shard-cost 3
- :stripped-text "[Confront]: Shift an unforged card in engaging player’s grid. 
-[Discover] Exhaust your seeker: Shift a card in engaging player’s grid (forged or unforged)."
+ :stripped-text "[Confront] Choose a player: Shift an unforged card in their grid. 
+[Discover] If this card is in your grid, choose a player: Shift a card in their grid (forged or unforged)."
  :stripped-title "Canal Network"
  :subtitle ""
- :text "<strong>[Confront]:</strong> Shift an unforged card in engaging player’s grid.<br/> <hr class=\"border-black opacity-20 my-1\"/>
-<strong>[Discover] Exhaust your seeker:</strong> Shift a card in engaging player’s grid <em>(forged or unforged)</em>."
+ :text "<strong>[Confront] Choose a player:</strong> Shift an unforged card in their grid.<br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Discover] If this card is in your grid, choose a player:</strong> Shift a card in their grid <em>(forged or unforged)</em>."
  :title "Canal Network"
  :subtypes [:location]
  :type :obstacle

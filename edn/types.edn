@@ -1,10 +1,10 @@
 ({:id :moment
   :name Moment}
- {:id :agent
-  :name Agent}
  {:id :source
   :name Source}
- {:id :seeker
-  :name Seeker}
  {:id :obstacle
-  :name Obstacle})
+  :name Obstacle}
+ {:id :agent
+  :name Agent}
+ {:id :seeker
+  :name Seeker})

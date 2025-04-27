@@ -1,9 +1,9 @@
 {:alias "Waterway Ferry"
- :barrier 2
+ :barrier 1
  :faction :omniworks
  :id "waterway-ferry"
  :presence 3
- :shard-cost 1
+ :shard-cost 0
  :stripped-text "[Reaction] After this card is forged: Shift it."
  :stripped-title "Waterway Ferry"
  :subtitle ""

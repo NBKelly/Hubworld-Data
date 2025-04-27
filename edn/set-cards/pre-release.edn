@@ -9,7 +9,7 @@
  :code "01002"
  :illustrator "Robert Brantseg, Evan Simonet"
  :position 2
- :quantity 2
+ :quantity 1
  :set-id "pre-release"}
  {:card-id "barbican-gate"
  :code "01003"
@@ -51,7 +51,7 @@
  :code "01009"
  :illustrator "Evan Simonet"
  :position 9
- :quantity 2
+ :quantity 1
  :set-id "pre-release"}
  {:card-id "eye-enforcers"
  :code "01010"
@@ -69,7 +69,7 @@
  :code "01012"
  :illustrator "Evan Simonet"
  :position 12
- :quantity 2
+ :quantity 1
  :set-id "pre-release"}
  {:card-id "goldie-xin-junk-collector"
  :code "01013"
@@ -93,7 +93,7 @@
  :code "01016"
  :illustrator "Joe Banner, Evan Simonet"
  :position 16
- :quantity 2
+ :quantity 1
  :set-id "pre-release"}
  {:card-id "likely-a-trap"
  :code "01017"
@@ -105,7 +105,7 @@
  :code "01018"
  :illustrator "Joe Banner, Evan Simonet"
  :position 18
- :quantity 2
+ :quantity 1
  :set-id "pre-release"}
  {:card-id "salvage-rats"
  :code "01019"
@@ -117,7 +117,7 @@
  :code "01020"
  :illustrator "Evan Simonet"
  :position 20
- :quantity 2
+ :quantity 1
  :set-id "pre-release"}
  {:card-id "shardwinner"
  :code "01021"
