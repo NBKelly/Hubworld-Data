@@ -154,4 +154,46 @@
  :illustrator "Evan Simonet"
  :position 26
  :quantity 2
+ :set-id "pre-release"}
+ {:card-id "lost-byway"
+ :code "01027"
+ :illustrator ["(unknown)"]
+ :position 27
+ :quantity 2
+ :set-id "pre-release"}
+ {:card-id "prime-treasurer-geel-munificent-financier"
+ :code "01028"
+ :illustrator ["(unknown)"]
+ :position 28
+ :quantity 1
+ :set-id "pre-release"}
+ {:card-id "turn-up-the-heat"
+ :code "01029"
+ :illustrator ["(unknown)"]
+ :position 29
+ :quantity 2
+ :set-id "pre-release"}
+ {:card-id "cooling-off"
+ :code "01030"
+ :illustrator ["(unknown)"]
+ :position 30
+ :quantity 2
+ :set-id "pre-release"}
+ {:card-id "cornering-the-market"
+ :code "01031"
+ :illustrator ["(unknown)"]
+ :position 31
+ :quantity 2
+ :set-id "pre-release"}
+ {:card-id "franchise-fees"
+ :code "01032"
+ :illustrator ["(unknown)"]
+ :position 32
+ :quantity 2
+ :set-id "pre-release"}
+ {:card-id "silkline-shuttle"
+ :code "01033"
+ :illustrator ["(unknown)"]
+ :position 33
+ :quantity 2
  :set-id "pre-release"}]

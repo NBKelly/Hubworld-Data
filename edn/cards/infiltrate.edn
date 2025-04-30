@@ -1,11 +1,11 @@
 {:alias "Infiltrate"
  :faction :omniworks
  :id "infiltrate"
- :shard-cost 1
- :stripped-text "[Reaction] As you begin discovering cards in a Council during a breach: Discover +2 cards."
+ :shard-cost 0
+ :stripped-text "[Reaction] As you begin discovering cards in a Council: Discover +2 cards."
  :stripped-title "Infiltrate"
  :subtitle ""
- :text "<strong>[Reaction] As you begin discovering cards in a Council during a breach:</strong> Discover +2 cards."
+ :text "<strong>[Reaction] As you begin discovering cards in a Council:</strong> Discover +2 cards."
  :title "Infiltrate"
  :subtypes [:subterfuge]
  :type :moment

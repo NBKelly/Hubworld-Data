@@ -6,6 +6,8 @@ from bs4 import BeautifulSoup
 import os
 import re
 import pprint
+import threading
+import queue
 
 URL = "https://decksmith.app/hubworldaidalon/cards/prime-collective/"
 
@@ -61,6 +63,24 @@ def get_title(soup, card):
 
 
     return card
+
+download_queue = queue.Queue()
+
+def download_worker():
+    while True:
+        cmd = download_queue.get()
+        if cmd is None:
+            break
+        print(cmd[0])
+        os.system(cmd[1])
+        download_queue.task_done()
+
+NUM_WORKERS = 4
+threads = []
+for _ in range(NUM_WORKERS):
+    t = threading.Thread(target=download_worker, daemon=True)
+    t.start()
+    threads.append(t)
 
 def get_image_url(soup, card):
     img_url = soup.find('img', class_='rounded-md')['src']
@@ -192,10 +212,11 @@ def format_set(card, code, position):
     set_card = {':card-id': card[':id'],
                 ':code': "0" + str(code + position),
                 ':position': position,
-                ':illustrator': card[':illustrator'],
+                ':illustrator': card.get(':illustrator', ["(unknown)"]),
                 # TODO - are agents singleton? Is 3 the right number?
                 ':quantity': 1 if card[':type'] == ":seeker" or card[':type'] == ":agent" else 2,
                 ':set-id': 'pre-release'}
+    card[':deck-limit'] = set_card[':quantity']
     return format_card(set_card)
 
 set_cards = []
@@ -210,6 +231,8 @@ def set_identities(card):
         card[':influence-limit'] = 15
         card[':minimum-deck-size'] = 36
     return card
+
+
 
 for card in cards:
     card[":faction"] = card[":affiliation"]
@@ -228,10 +251,16 @@ for card in cards:
     for s in card[':traits']:
         subtypes.add(s)
 
-    print("Downloading " + card[':url'] + "...")
-    os.system('wget -q -O img/' + "0" + str(code + position) + ".webp \"" + card[':url'] + '"')
+    #print()
+    download_queue.put(["Downloading " + card[':url'] + "...", 'wget -q -O img/' + "0" + str(code + position) + ".webp \"" + card[':url'] + '"'])
     position += 1
 #    print(format_card(card))
+
+download_queue.join()
+for _ in threads:
+    download_queue.put(None)
+for t in threads:
+    t.join()
 
 # write the set-cards file
 print("Writing set-cards/pre-release.edn...")
@@ -243,26 +272,26 @@ f.close()
 print("Writing sets.edn...")
 sets = ['{:code "pre-release"\n  :cycle-id "pre-release"\n  :id "pre-release"\n  :name "Pre-Release"\n  :set-type :data-pack\n  :position 1\n  :size 25\n:data-release nil}']
 f = open("edn/sets.edn", "w")
-f.write("[" + "\n ".join(sets) + "]\n")
+f.write("[" + "\n  ".join(sets) + "]\n")
 f.close()
 
 # write the cycles file
 print("Writing cycles.edn...")
 cycles = ['{:id "pre-release"\n  :name "Pre-Release"\n  :position 0\n  :rotated false\n  :size 1}']
 f = open("edn/cycles.edn", "w")
-f.write("[" + "\n ".join(cycles) + "]\n")
+f.write("[" + "\n  ".join(cycles) + "]\n")
 f.close()
 
 # write the formats file
 print("Writing formats.edn...")
 formats = ['{:id "pre-release"\n  :name "Pre-Release"\n  :sets ["pre-release"]\n  :mwl nil}']
 f = open("edn/formats.edn", "w")
-f.write("[" + "\n ".join(formats) + "]\n")
+f.write("[" + "\n  ".join(formats) + "]\n")
 f.close()
 
 # write the types file
 print("Writing types.edn...")
-types_str = "(" + "\n ".join("{:id " + type + "\n  :name " + unslug(type) + "}" for type in types) + ")\n"
+types_str = "(" + "\n ".join("{:id " + type + "\n  :name " + unslug(type) + "}" for type in sorted(types)) + ")\n"
 f = open("edn/types.edn", "w")
 f.write(types_str)
 f.close()

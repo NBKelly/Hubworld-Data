@@ -1,5 +1,5 @@
 {:alias "Gargala Larga"
- :barrier 4
+ :barrier 3
  :collection-icons :shard
  :faction :old-aidalon
  :id "gargala-larga-imperator-of-growth"

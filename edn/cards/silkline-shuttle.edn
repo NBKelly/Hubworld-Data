@@ -1,0 +1,14 @@
+{:alias "Silkline Shuttle"
+ :collection-icons :draw
+ :faction :the-remnants
+ :id "silkline-shuttle"
+ :presence 4
+ :shard-cost 2
+ :stripped-text "[Reaction] After this card is forged: Swap it with another card in your grid."
+ :stripped-title "Silkline Shuttle"
+ :subtitle ""
+ :text "<strong>[Reaction] After this card is forged:</strong> Swap it with another card in your grid."
+ :title "Silkline Shuttle"
+ :subtypes [:contraption]
+ :type :source
+ :uniqueness nil}

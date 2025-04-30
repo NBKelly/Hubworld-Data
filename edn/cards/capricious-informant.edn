@@ -2,12 +2,14 @@
  :collection-icons :shard
  :faction :the-collective
  :id "capricious-informant"
- :presence 4
- :shard-cost 3
- :stripped-text "[Instant] Exhaust this card and look at the top 2 cards of your Commons: Add 1 of those to your Council and archive the other."
+ :presence 2
+ :shard-cost 2
+ :stripped-text "Refund 1. (As this card’s Presence is broken, gain 1 [Credit].) 
+While this card is forged: Each agent and obstacle in your rival’s front row gets -1 Barrier."
  :stripped-title "Capricious Informant"
  :subtitle ""
- :text "<strong>[Instant] Exhaust this card and look at the top 2 cards of your Commons:</strong> Add 1 of those to your Council and archive the other."
+ :text "Refund 1. <em>(As this card’s Presence is broken, gain 1 [Credit].)</em><br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>While this card is forged:</strong> Each agent and obstacle in your rival’s front row gets -1 Barrier."
  :title "Capricious Informant"
  :subtypes [:persona]
  :type :source

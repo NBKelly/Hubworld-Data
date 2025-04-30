@@ -1,11 +1,11 @@
 {:alias "Smooth Handoff"
- :faction :omniworks
+ :faction :the-remnants
  :id "smooth-handoff"
- :shard-cost 0
- :stripped-text "[Click] Choose a player: They lose 1 [Heat] and draw 1 card."
+ :shard-cost 1
+ :stripped-text "[Instant] Add a card in your grid to your Council: Stage 1 card (you can stage agents, obstacles, and sources)."
  :stripped-title "Smooth Handoff"
  :subtitle ""
- :text "<strong>[Click] Choose a player:</strong> They lose 1 [Heat] and draw 1 card."
+ :text "<strong>[Instant] Add a card in your grid to your Council:</strong> Stage 1 card <em>(you can stage agents, obstacles, and sources)</em>."
  :title "Smooth Handoff"
  :subtypes [:subterfuge :tactic]
  :type :moment

@@ -1,0 +1,12 @@
+{:alias "Cooling Off"
+ :faction :omniworks
+ :id "cooling-off"
+ :shard-cost 0
+ :stripped-text "[Click] Choose a player: They lose 1 [Heat] and draw 1 card."
+ :stripped-title "Cooling Off"
+ :subtitle ""
+ :text "<strong>[Click] Choose a player:</strong> They lose 1 [Heat] and draw 1 card."
+ :title "Cooling Off"
+ :subtypes [:subterfuge]
+ :type :moment
+ :uniqueness nil}

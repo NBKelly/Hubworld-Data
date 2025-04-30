@@ -1,0 +1,12 @@
+{:alias "Cornering the Market"
+ :faction :old-aidalon
+ :id "cornering-the-market"
+ :shard-cost 0
+ :stripped-text "[Reaction] After you complete a breach on a Commons: Gain 3 [Credit]."
+ :stripped-title "Cornering the Market"
+ :subtitle ""
+ :text "<strong>[Reaction] After you complete a breach on a Commons:</strong> Gain 3 [Credit]."
+ :title "Cornering the Market"
+ :subtypes [:commerce]
+ :type :moment
+ :uniqueness nil}

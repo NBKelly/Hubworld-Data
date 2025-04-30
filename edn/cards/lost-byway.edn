@@ -1,0 +1,14 @@
+{:alias "Lost Byway"
+ :collection-icons :shard
+ :faction :omniworks
+ :id "lost-byway"
+ :presence 4
+ :shard-cost 3
+ :stripped-text "[Reaction] After this card is forged: Lose 1 [Heat]."
+ :stripped-title "Lost Byway"
+ :subtitle ""
+ :text "<strong>[Reaction] After this card is forged:</strong> Lose 1 [Heat]."
+ :title "Lost Byway"
+ :subtypes [:location]
+ :type :source
+ :uniqueness nil}

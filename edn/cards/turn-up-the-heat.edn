@@ -1,0 +1,12 @@
+{:alias "Turn Up the Heat"
+ :faction :the-remnants
+ :id "turn-up-the-heat"
+ :shard-cost 1
+ :stripped-text "[Reaction] After you complete a breach on a player’s district: They gain 1 [Heat]."
+ :stripped-title "Turn Up the Heat"
+ :subtitle ""
+ :text "<strong>[Reaction] After you complete a breach on a player’s district:</strong> They gain 1 [Heat]."
+ :title "Turn Up the Heat"
+ :subtypes [:tactic]
+ :type :moment
+ :uniqueness nil}

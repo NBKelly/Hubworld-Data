@@ -4,11 +4,13 @@
  :faction :the-collective
  :id "doctor-twilight-dream-surgeon"
  :presence 3
- :shard-cost 3
- :stripped-text "[Instant] Exhaust this card and exile 1 card from your Archives: Gain 3 [Credit]."
+ :shard-cost 4
+ :stripped-text "[Instant] Exhaust this card and exile 1 card from your Archives: Gain 3 [Credit]. 
+[Discover]: Add 1 card from your Exile to your Archives (of your choice)."
  :stripped-title "Doctor Twilight: Dream Surgeon"
  :subtitle "Dream Surgeon"
- :text "<strong>[Instant] Exhaust this card and exile 1 card from your Archives:</strong> Gain 3 [Credit]."
+ :text "<strong>[Instant] Exhaust this card and exile 1 card from your Archives:</strong> Gain 3 [Credit].<br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Discover]:</strong> Add 1 card from your Exile to your Archives <em>(of your choice)</em>."
  :title "Doctor Twilight: Dream Surgeon"
  :subtypes [:visionary]
  :type :agent
