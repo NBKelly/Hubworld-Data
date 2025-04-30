@@ -191,12 +191,16 @@ def format_value(v):
     # it's a list
     return "[" + " ".join(format_value(val) for val in v) + "]"
 
-def format_card(card):
+def format_card(card, deck_lim=True):
     keys = sorted(card.keys())
     lines = []
+    if deck_lim:
+        if card.get(':type') == ":seeker" or card.get(':type') == ":agent":
+            lines += [":deck-limit 1"]
+        else:
+            lines += [":deck-limit 2"]
     for key in keys:
         lines += [format_key(key) + " " + format_value(card[key])]
-
     return "{" + "\n ".join(lines) + "}"
 
 code = 1000
@@ -213,11 +217,9 @@ def format_set(card, code, position):
                 ':code': "0" + str(code + position),
                 ':position': position,
                 ':illustrator': card.get(':illustrator', ["(unknown)"]),
-                # TODO - are agents singleton? Is 3 the right number?
                 ':quantity': 1 if card[':type'] == ":seeker" or card[':type'] == ":agent" else 2,
                 ':set-id': 'pre-release'}
-    card[':deck-limit'] = set_card[':quantity']
-    return format_card(set_card)
+    return format_card(set_card, deck_lim=None)
 
 set_cards = []
 

@@ -1,4 +1,5 @@
-{:alias "Lost Byway"
+{:deck-limit 2
+ :alias "Lost Byway"
  :collection-icons :shard
  :faction :omniworks
  :id "lost-byway"

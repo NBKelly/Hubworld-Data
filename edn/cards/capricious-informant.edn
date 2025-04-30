@@ -1,4 +1,5 @@
-{:alias "Capricious Informant"
+{:deck-limit 2
+ :alias "Capricious Informant"
  :collection-icons :shard
  :faction :the-collective
  :id "capricious-informant"

@@ -1,4 +1,5 @@
-{:alias "Gargala Larga"
+{:deck-limit 1
+ :alias "Gargala Larga"
  :barrier 3
  :collection-icons :shard
  :faction :old-aidalon

@@ -1,4 +1,5 @@
-{:alias "Smooth Handoff"
+{:deck-limit 2
+ :alias "Smooth Handoff"
  :faction :the-remnants
  :id "smooth-handoff"
  :shard-cost 1

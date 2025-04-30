@@ -1,4 +1,5 @@
-{:alias "Doctor Twilight"
+{:deck-limit 1
+ :alias "Doctor Twilight"
  :barrier 3
  :collection-icons :draw
  :faction :the-collective

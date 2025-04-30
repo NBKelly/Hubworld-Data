@@ -1,4 +1,5 @@
-{:alias "Abnus Orzo"
+{:deck-limit 1
+ :alias "Abnus Orzo"
  :collection-icons :shard
  :draw-limit 5
  :faction :the-collective

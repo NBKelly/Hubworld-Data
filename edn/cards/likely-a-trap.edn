@@ -1,4 +1,5 @@
-{:alias "Likely a Trap"
+{:deck-limit 2
+ :alias "Likely a Trap"
  :faction :the-collective
  :id "likely-a-trap"
  :shard-cost 0

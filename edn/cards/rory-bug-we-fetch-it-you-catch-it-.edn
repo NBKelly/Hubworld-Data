@@ -1,4 +1,5 @@
-{:alias "Rory & Bug"
+{:deck-limit 1
+ :alias "Rory & Bug"
  :barrier 3
  :collection-icons :shard
  :faction :omniworks

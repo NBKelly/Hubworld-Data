@@ -1,4 +1,5 @@
-{:alias "Turn Up the Heat"
+{:deck-limit 2
+ :alias "Turn Up the Heat"
  :faction :the-remnants
  :id "turn-up-the-heat"
  :shard-cost 1

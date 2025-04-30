@@ -1,4 +1,5 @@
-{:alias "Prime Treasurer Geel"
+{:deck-limit 1
+ :alias "Prime Treasurer Geel"
  :barrier 4
  :collection-icons :shard
  :faction :old-aidalon

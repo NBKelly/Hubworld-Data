@@ -1,4 +1,5 @@
-{:alias "Cooling Off"
+{:deck-limit 2
+ :alias "Cooling Off"
  :faction :omniworks
  :id "cooling-off"
  :shard-cost 0

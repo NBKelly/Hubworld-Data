@@ -1,4 +1,5 @@
-{:alias "The Dragon’s Hoard"
+{:deck-limit 2
+ :alias "The Dragon’s Hoard"
  :collection-icons :shard
  :faction :the-remnants
  :id "the-dragon-s-hoard"

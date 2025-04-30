@@ -1,4 +1,5 @@
-{:alias "Canal Network"
+{:deck-limit 2
+ :alias "Canal Network"
  :barrier 2
  :faction :omniworks
  :id "canal-network"

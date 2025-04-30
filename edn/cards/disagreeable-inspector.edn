@@ -1,4 +1,5 @@
-{:alias "Disagreeable Inspector"
+{:deck-limit 2
+ :alias "Disagreeable Inspector"
  :collection-icons :shard
  :faction :old-aidalon
  :id "disagreeable-inspector"

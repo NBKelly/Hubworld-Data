@@ -1,4 +1,5 @@
-{:alias "Auntie Ruth"
+{:deck-limit 1
+ :alias "Auntie Ruth"
  :barrier 3
  :collection-icons :shard
  :faction :omniworks

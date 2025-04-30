@@ -1,4 +1,5 @@
-{:alias "Cornering the Market"
+{:deck-limit 2
+ :alias "Cornering the Market"
  :faction :old-aidalon
  :id "cornering-the-market"
  :shard-cost 0

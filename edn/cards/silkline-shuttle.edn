@@ -1,4 +1,5 @@
-{:alias "Silkline Shuttle"
+{:deck-limit 2
+ :alias "Silkline Shuttle"
  :collection-icons :draw
  :faction :the-remnants
  :id "silkline-shuttle"

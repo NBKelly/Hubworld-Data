@@ -1,4 +1,5 @@
-{:alias "Goldie Xin"
+{:deck-limit 1
+ :alias "Goldie Xin"
  :collection-icons :shard
  :draw-limit 5
  :faction :omniworks

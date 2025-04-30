@@ -1,4 +1,5 @@
-{:alias "Kryzar the Rat"
+{:deck-limit 1
+ :alias "Kryzar the Rat"
  :barrier 3
  :collection-icons :shard
  :faction :the-remnants

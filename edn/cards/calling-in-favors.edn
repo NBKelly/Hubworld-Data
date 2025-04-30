@@ -1,4 +1,5 @@
-{:alias "Calling in Favors"
+{:deck-limit 2
+ :alias "Calling in Favors"
  :faction :omniworks
  :id "calling-in-favors"
  :shard-cost 0

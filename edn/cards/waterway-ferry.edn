@@ -1,4 +1,5 @@
-{:alias "Waterway Ferry"
+{:deck-limit 2
+ :alias "Waterway Ferry"
  :barrier 1
  :faction :omniworks
  :id "waterway-ferry"

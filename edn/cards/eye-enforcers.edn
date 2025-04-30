@@ -1,4 +1,5 @@
-{:alias "Eye Enforcers"
+{:deck-limit 2
+ :alias "Eye Enforcers"
  :barrier 3
  :faction :the-collective
  :id "eye-enforcers"

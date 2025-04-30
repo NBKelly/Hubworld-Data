@@ -1,4 +1,5 @@
-{:alias "Fun Run"
+{:deck-limit 2
+ :alias "Fun Run"
  :faction :the-remnants
  :id "fun-run"
  :shard-cost 0

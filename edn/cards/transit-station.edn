@@ -1,4 +1,5 @@
-{:alias "Transit Station"
+{:deck-limit 2
+ :alias "Transit Station"
  :barrier 1
  :faction :old-aidalon
  :id "transit-station"

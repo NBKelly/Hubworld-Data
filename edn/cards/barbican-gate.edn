@@ -1,4 +1,5 @@
-{:alias "Barbican Gate"
+{:deck-limit 2
+ :alias "Barbican Gate"
  :barrier 1
  :faction :the-collective
  :id "barbican-gate"

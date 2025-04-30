@@ -1,4 +1,5 @@
-{:alias "Infiltrate"
+{:deck-limit 2
+ :alias "Infiltrate"
  :faction :omniworks
  :id "infiltrate"
  :shard-cost 0

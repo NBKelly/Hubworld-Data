@@ -1,4 +1,5 @@
-{:alias "Chairman Bo Pax"
+{:deck-limit 1
+ :alias "Chairman Bo Pax"
  :collection-icons :draw
  :draw-limit 5
  :faction :old-aidalon

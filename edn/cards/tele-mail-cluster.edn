@@ -1,4 +1,5 @@
-{:alias "Tele-Mail Cluster"
+{:deck-limit 2
+ :alias "Tele-Mail Cluster"
  :collection-icons :draw
  :faction :omniworks
  :id "tele-mail-cluster"

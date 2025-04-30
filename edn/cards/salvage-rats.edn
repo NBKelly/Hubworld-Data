@@ -1,4 +1,5 @@
-{:alias "Salvage Rats"
+{:deck-limit 2
+ :alias "Salvage Rats"
  :barrier 0
  :faction :omniworks
  :id "salvage-rats"

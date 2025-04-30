@@ -1,4 +1,5 @@
-{:alias "Sergeant Cole"
+{:deck-limit 1
+ :alias "Sergeant Cole"
  :barrier 3
  :collection-icons :shard
  :faction :the-collective
