@@ -263,81 +263,69 @@
  :position 44
  :quantity 2
  :set-id "pre-release"}
- {:card-id "containment-funnel"
+ {:card-id "echopomp-revoker"
  :code "01045"
  :illustrator ["(unknown)"]
  :position 45
  :quantity 2
  :set-id "pre-release"}
- {:card-id "echopomp-revoker"
+ {:card-id "bubblemap-kiosk"
  :code "01046"
  :illustrator ["(unknown)"]
  :position 46
  :quantity 2
  :set-id "pre-release"}
- {:card-id "bubblemap-kiosk"
+ {:card-id "crispy-crawler"
  :code "01047"
  :illustrator ["(unknown)"]
  :position 47
  :quantity 2
  :set-id "pre-release"}
- {:card-id "crispy-crawler"
+ {:card-id "pax-observatory"
  :code "01048"
  :illustrator ["(unknown)"]
  :position 48
  :quantity 2
  :set-id "pre-release"}
- {:card-id "pax-observatory"
+ {:card-id "waterfront-soakhouse"
  :code "01049"
  :illustrator ["(unknown)"]
  :position 49
  :quantity 2
  :set-id "pre-release"}
- {:card-id "waterfront-soakhouse"
+ {:card-id "wirecrawler"
  :code "01050"
  :illustrator ["(unknown)"]
  :position 50
  :quantity 2
  :set-id "pre-release"}
- {:card-id "wirecrawler"
+ {:card-id "twice-as-bad"
  :code "01051"
  :illustrator ["(unknown)"]
  :position 51
  :quantity 2
  :set-id "pre-release"}
- {:card-id "daring-aeroboarder"
+ {:card-id "rapid-growth"
  :code "01052"
  :illustrator ["(unknown)"]
  :position 52
  :quantity 2
  :set-id "pre-release"}
- {:card-id "twice-as-bad"
+ {:card-id "print-on-demand"
  :code "01053"
  :illustrator ["(unknown)"]
  :position 53
  :quantity 2
  :set-id "pre-release"}
- {:card-id "rapid-growth"
+ {:card-id "forced-liquidation"
  :code "01054"
  :illustrator ["(unknown)"]
  :position 54
  :quantity 2
  :set-id "pre-release"}
- {:card-id "print-on-demand"
+ {:card-id "threading-through"
  :code "01055"
  :illustrator ["(unknown)"]
  :position 55
- :quantity 2
- :set-id "pre-release"}
- {:card-id "forced-liquidation"
- :code "01056"
- :illustrator ["(unknown)"]
- :position 56
- :quantity 2
- :set-id "pre-release"}
- {:card-id "threading-through"
- :code "01057"
- :illustrator ["(unknown)"]
- :position 57
  :quantity 2
  :set-id "pre-release"}]

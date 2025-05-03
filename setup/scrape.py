@@ -212,11 +212,11 @@ def stripped_card(card):
     c.pop(':url', None)
     return c
 
-def format_set(card, code, position):
+def format_set(card, code, position, illustrator):
     set_card = {':card-id': card[':id'],
                 ':code': "0" + str(code + position),
                 ':position': position,
-                ':illustrator': card.get(':illustrator', ["(unknown)"]),
+                ':illustrator': illustrator,
                 ':quantity': 1 if card[':type'] == ":seeker" or card[':type'] == ":agent" else 2,
                 ':set-id': 'pre-release'}
     return format_card(set_card, deck_lim=None)
@@ -234,18 +234,17 @@ def set_identities(card):
         card[':minimum-deck-size'] = 36
     return card
 
-
-
 for card in cards:
     card[":faction"] = card[":affiliation"]
     card.pop(":affiliation", None)
     card.pop(":set", None)
+    il = card.get(":illustrator", ["(unknown)"])
     formatted_card = format_card(stripped_card(card))
     f = open("edn/cards/" + card[':id'] + ".edn", "w")
     f.write(formatted_card + "\n")
     f.close()
 
-    set_cards += [format_set(card, code, position)]
+    set_cards += [format_set(card, code, position, il)]
     card = set_identities(card)
 #    print(card)
     types.add(card[':type'])
@@ -300,13 +299,13 @@ f.close()
 
 # write the types file
 print("Writing subtypes.edn...")
-subtypes_str = "(" + "\n ".join("{:id " + type + "\n  :name \"" + unslug(type) + "\"}" for type in subtypes) + ")\n"
+subtypes_str = "(" + "\n ".join("{:id " + type + "\n  :name \"" + unslug(type) + "\"}" for type in sorted(subtypes)) + ")\n"
 f = open("edn/subtypes.edn", "w")
 f.write(subtypes_str)
 f.close()
 
 print("Writing factions.edn...")
-factions_str = "(" + "\n ".join("{:id " + type + "\n  :name \"" + unslug_title(type) + "\"}" for type in factions) + ")\n"
+factions_str = "(" + "\n ".join("{:id " + type + "\n  :name \"" + unslug_title(type) + "\"}" for type in sorted(factions)) + ")\n"
 f = open("edn/factions.edn", "w")
 f.write(factions_str)
 f.close()
