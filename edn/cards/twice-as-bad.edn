@@ -1,0 +1,13 @@
+{:deck-limit 2
+ :alias "Twice as Bad"
+ :faction :the-collective
+ :id "twice-as-bad"
+ :shard-cost 1
+ :stripped-text "[Reaction] After you resolve a Discover ability: Resolve that ability again."
+ :stripped-title "Twice as Bad"
+ :subtitle ""
+ :text "<strong>[Reaction] After you resolve a Discover ability:</strong> Resolve that ability again."
+ :title "Twice as Bad"
+ :subtypes [:subterfuge]
+ :type :moment
+ :uniqueness nil}

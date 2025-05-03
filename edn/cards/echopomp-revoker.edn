@@ -1,0 +1,15 @@
+{:deck-limit 2
+ :alias "Echopomp Revoker"
+ :collection-icons :draw
+ :faction :the-collective
+ :id "echopomp-revoker"
+ :presence 6
+ :shard-cost 3
+ :stripped-text "[Instant] During a delve, exhaust this card and exile 2 cards from your Archives: End the delve."
+ :stripped-title "Echopomp Revoker"
+ :subtitle ""
+ :text "<strong>[Instant] During a delve, exhaust this card and exile 2 cards from your Archives:</strong> End the delve."
+ :title "Echopomp Revoker"
+ :subtypes [:persona]
+ :type :source
+ :uniqueness nil}

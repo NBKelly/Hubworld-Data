@@ -1,0 +1,13 @@
+{:deck-limit 2
+ :alias "Threading Through"
+ :faction :omniworks
+ :id "threading-through"
+ :shard-cost 1
+ :stripped-text "[Instant]: Shift a card in your grid."
+ :stripped-title "Threading Through"
+ :subtitle ""
+ :text "<strong>[Instant]:</strong> Shift a card in your grid."
+ :title "Threading Through"
+ :subtypes [:knowledge :tactic]
+ :type :moment
+ :uniqueness nil}

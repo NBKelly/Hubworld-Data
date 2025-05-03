@@ -1,0 +1,18 @@
+{:deck-limit 1
+ :alias "Big Varna Gorvis"
+ :barrier 3
+ :collection-icons :draw
+ :faction :omniworks
+ :id "big-varna-gorvis-friends-in-every-district"
+ :presence 2
+ :shard-cost 2
+ :stripped-text "[Click] If you have more cards in your Council than your rival, exhaust this card: Gain 3 [Credit]. 
+[Discover] If you have more cards in your Council than engaging player: Archive 1 card at random from their Council."
+ :stripped-title "Big Varna Gorvis: Friends in Every District"
+ :subtitle "Friends in Every District"
+ :text "<strong>[Click] If you have more cards in your Council than your rival, exhaust this card:</strong> Gain 3 [Credit].<br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Discover] If you have more cards in your Council than engaging player:</strong> Archive 1 card at random from their Council."
+ :title "Big Varna Gorvis: Friends in Every District"
+ :subtypes [:paragon]
+ :type :agent
+ :uniqueness true}

@@ -1,0 +1,13 @@
+{:deck-limit 2
+ :alias "Rapid Growth"
+ :faction :old-aidalon
+ :id "rapid-growth"
+ :shard-cost 1
+ :stripped-text "[Click]: Stage up to 3 cards (you can stage agents, obstacles, and sources)."
+ :stripped-title "Rapid Growth"
+ :subtitle ""
+ :text "<strong>[Click]:</strong> Stage up to 3 cards <em>(you can stage agents, obstacles, and sources).</em>"
+ :title "Rapid Growth"
+ :subtypes [:influence]
+ :type :moment
+ :uniqueness nil}

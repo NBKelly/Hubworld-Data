@@ -1,0 +1,15 @@
+{:deck-limit 2
+ :alias "Pax Observatory"
+ :collection-icons :draw
+ :faction :old-aidalon
+ :id "pax-observatory"
+ :presence 6
+ :shard-cost 6
+ :stripped-text "[Reaction] As you refill Actions during the refresh phase: Increase the number you refill to by 1."
+ :stripped-title "Pax Observatory"
+ :subtitle ""
+ :text "<strong>[Reaction] As you refill Actions during the refresh phase:</strong> Increase the number you refill to by 1."
+ :title "Pax Observatory"
+ :subtypes [:location]
+ :type :source
+ :uniqueness true}

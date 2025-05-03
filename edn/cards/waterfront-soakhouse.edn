@@ -1,0 +1,15 @@
+{:deck-limit 2
+ :alias "Waterfront Soakhouse"
+ :collection-icons :shard
+ :faction :omniworks
+ :id "waterfront-soakhouse"
+ :presence 2
+ :shard-cost 1
+ :stripped-text "While you have fewer [Heat] in your pool than your rival: This card gets +4 Presence."
+ :stripped-title "Waterfront Soakhouse"
+ :subtitle ""
+ :text "<strong>While you have fewer [Heat] in your pool than your rival:</strong> This card gets +4 Presence."
+ :title "Waterfront Soakhouse"
+ :subtypes [:location]
+ :type :source
+ :uniqueness nil}

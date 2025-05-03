@@ -1,0 +1,17 @@
+{:deck-limit 2
+ :alias "Crispy Crawler"
+ :collection-icons :shard
+ :faction :old-aidalon
+ :id "crispy-crawler"
+ :presence 2
+ :shard-cost 1
+ :stripped-text "Cache 2. (As this is forged, place 2 [Credit] here.) 
+[Reaction] As the round begins, remove 1 [Credit] from here: Gain 1 [Credit]."
+ :stripped-title "Crispy Crawler"
+ :subtitle ""
+ :text "Cache 2. <em>(As this is forged, place 2 [Credit] here.)</em><br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Reaction] As the round begins, remove 1 [Credit] from here:</strong> Gain 1 [Credit]."
+ :title "Crispy Crawler"
+ :subtypes [:location]
+ :type :source
+ :uniqueness nil}

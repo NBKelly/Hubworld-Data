@@ -1,0 +1,17 @@
+{:deck-limit 2
+ :alias "Oroba Plaza"
+ :barrier 1
+ :faction :the-remnants
+ :id "oroba-plaza"
+ :presence 3
+ :shard-cost 1
+ :stripped-text "[Confront] If you have 2 [Heat] or more in your pool: Steal 1 [Credit] from engaging player’s pool. 
+[Discover] If you have 2 [Heat] or more in your pool: Steal 1 [Credit] from engaging player’s pool."
+ :stripped-title "Oroba Plaza"
+ :subtitle ""
+ :text "<strong>[Confront] If you have 2 [Heat] or more in your pool:</strong> Steal 1 [Credit] from engaging player’s pool.<br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Discover] If you have 2 [Heat] or more in your pool:</strong> Steal 1 [Credit] from engaging player’s pool."
+ :title "Oroba Plaza"
+ :subtypes [:location]
+ :type :obstacle
+ :uniqueness nil}

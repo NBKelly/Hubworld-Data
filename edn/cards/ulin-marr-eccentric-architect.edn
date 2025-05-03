@@ -1,0 +1,16 @@
+{:deck-limit 1
+ :alias "Ulin Marr"
+ :barrier 4
+ :collection-icons :draw
+ :faction :old-aidalon
+ :id "ulin-marr-eccentric-architect"
+ :presence 1
+ :shard-cost 2
+ :stripped-text "[Click] Exhaust this card: Stage up to 2 cards (you can stage agents, obstacles, and sources)."
+ :stripped-title "Ulin Marr: Eccentric Architect"
+ :subtitle "Eccentric Architect"
+ :text "<strong>[Click] Exhaust this card:</strong> Stage up to 2 cards <em>(you can stage agents, obstacles, and sources).</em>"
+ :title "Ulin Marr: Eccentric Architect"
+ :subtypes [:visionary]
+ :type :agent
+ :uniqueness true}

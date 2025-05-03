@@ -1,0 +1,17 @@
+{:deck-limit 2
+ :alias "Bubblemap Kiosk"
+ :collection-icons :draw
+ :faction :old-aidalon
+ :id "bubblemap-kiosk"
+ :presence 4
+ :shard-cost 2
+ :stripped-text "Refund 1. (As this card’s Presence is broken, gain 1 [Credit].) 
+[Reaction] As you begin discovering cards in a Commons, exhaust this card: Discover from the bottom of that Commons."
+ :stripped-title "Bubblemap Kiosk"
+ :subtitle ""
+ :text "Refund 1. <em>(As this card’s Presence is broken, gain 1 [Credit].)</em><br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Reaction] As you begin discovering cards in a Commons, exhaust this card:</strong> Discover from the bottom of that Commons."
+ :title "Bubblemap Kiosk"
+ :subtypes [:contraption]
+ :type :source
+ :uniqueness nil}

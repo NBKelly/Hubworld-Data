@@ -1,0 +1,17 @@
+{:deck-limit 2
+ :alias "Asset Protection Hub"
+ :barrier 1
+ :faction :old-aidalon
+ :id "asset-protection-hub"
+ :presence 4
+ :shard-cost 2
+ :stripped-text "Refund 1. (As this card’s Presence is broken, gain 1 [Credit].) 
+While this card is forged: Each adjacent agent and obstacle gets +1 Barrier."
+ :stripped-title "Asset Protection Hub"
+ :subtitle ""
+ :text "Refund 1. <em>(As this card’s Presence is broken, gain 1 [Credit].)</em><br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>While this card is forged:</strong> Each adjacent agent and obstacle gets +1 Barrier."
+ :title "Asset Protection Hub"
+ :subtypes [:location]
+ :type :obstacle
+ :uniqueness nil}

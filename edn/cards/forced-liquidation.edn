@@ -1,0 +1,13 @@
+{:deck-limit 2
+ :alias "Forced Liquidation"
+ :faction :old-aidalon
+ :id "forced-liquidation"
+ :shard-cost 3
+ :stripped-text "[Reaction] As you approach a forged card, exhaust a forged card with 4 Barrier or more in your grid: Archive the approached card."
+ :stripped-title "Forced Liquidation"
+ :subtitle ""
+ :text "<strong>[Reaction] As you approach a forged card, exhaust a forged card with 4 Barrier or more in your grid:</strong> Archive the approached card."
+ :title "Forced Liquidation"
+ :subtypes [:tactic]
+ :type :moment
+ :uniqueness nil}

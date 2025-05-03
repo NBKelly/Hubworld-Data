@@ -1,0 +1,17 @@
+{:deck-limit 2
+ :alias "Tunnel Runners"
+ :barrier 1
+ :faction :omniworks
+ :id "tunnel-runners"
+ :presence 2
+ :shard-cost 1
+ :stripped-text "Refund 1. (As this card’s Presence is broken, gain 1 [Credit].) 
+[Confront] Lose 1 [Credit]: Lose 1 [Heat]."
+ :stripped-title "Tunnel Runners"
+ :subtitle ""
+ :text "Refund 1. <em>(As this card’s Presence is broken, gain 1 [Credit].)</em><br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Confront] Lose 1 [Credit]:</strong> Lose 1 [Heat]."
+ :title "Tunnel Runners"
+ :subtypes [:being :persona]
+ :type :obstacle
+ :uniqueness nil}

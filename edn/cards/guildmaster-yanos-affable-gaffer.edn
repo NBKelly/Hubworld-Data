@@ -1,0 +1,16 @@
+{:deck-limit 1
+ :alias "Guildmaster Yanos"
+ :barrier 4
+ :collection-icons :shard
+ :faction :omniworks
+ :id "guildmaster-yanos-affable-gaffer"
+ :presence 1
+ :shard-cost 3
+ :stripped-text "While this card is forged: Each other card in your grid gets -1 shard cost."
+ :stripped-title "Guildmaster Yanos: Affable Gaffer"
+ :subtitle "Affable Gaffer"
+ :text "<strong>While this card is forged:</strong> Each other card in your grid gets -1 shard cost."
+ :title "Guildmaster Yanos: Affable Gaffer"
+ :subtypes [:paragon]
+ :type :agent
+ :uniqueness true}

@@ -1,0 +1,16 @@
+{:deck-limit 2
+ :alias "Wirecrawler"
+ :faction :omniworks
+ :id "wirecrawler"
+ :presence 3
+ :shard-cost 1
+ :stripped-text "Refund 1. (As this card’s Presence is broken, gain 1 [Credit].) 
+[Instant] Exhaust this card: Shift it."
+ :stripped-title "Wirecrawler"
+ :subtitle ""
+ :text "Refund 1. <em>(As this card’s Presence is broken, gain 1 [Credit].)</em><br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Instant] Exhaust this card:</strong> Shift it."
+ :title "Wirecrawler"
+ :subtypes [:being]
+ :type :source
+ :uniqueness nil}

@@ -1,0 +1,18 @@
+{:deck-limit 1
+ :alias "“Spider” Rebbek"
+ :barrier 3
+ :collection-icons :draw
+ :faction :the-remnants
+ :id "-spider-rebbek-dragon-s-hoard-pitboss"
+ :presence 2
+ :shard-cost 2
+ :stripped-text "While this card is forged: Each other card in your grid gets +1 Presence. 
+[Discover] If this card is in your grid: Exhaust a forged card in engaging player’s grid."
+ :stripped-title "“Spider” Rebbek: Dragon’s Hoard Pitboss"
+ :subtitle "Dragon’s Hoard Pitboss"
+ :text "<strong>While this card is forged:</strong> Each other card in your grid gets +1 Presence.<br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Discover] If this card is in your grid:</strong> Exhaust a forged card in engaging player’s grid."
+ :title "“Spider” Rebbek: Dragon’s Hoard Pitboss"
+ :subtypes [:enforcer]
+ :type :agent
+ :uniqueness true}
