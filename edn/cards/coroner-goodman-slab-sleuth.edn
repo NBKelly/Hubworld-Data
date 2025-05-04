@@ -1,0 +1,17 @@
+{:deck-limit 1
+ :alias "Coroner Goodman"
+ :barrier 3
+ :collection-icons :shard
+ :faction :the-collective
+ :id "coroner-goodman-slab-sleuth"
+ :influence-cost 0
+ :presence 2
+ :shard-cost 1
+ :stripped-text "[Reaction] As a player engages one of your agents, obstacles, or sources, exhaust this card and exile 1 card from your Archives: The engaged card gets +3 Presence until the engagement ends."
+ :stripped-title "Coroner Goodman: Slab Sleuth"
+ :subtitle "Slab Sleuth"
+ :text "<strong>[Reaction] As a player engages one of your agents, obstacles, or sources, exhaust this card and exile 1 card from your Archives:</strong> The engaged card gets +3 Presence until the engagement ends."
+ :title "Coroner Goodman: Slab Sleuth"
+ :subtypes [:enforcer]
+ :type :agent
+ :uniqueness true}

@@ -328,4 +328,16 @@
  :illustrator "(unknown)"
  :position 55
  :quantity 2
+ :set-id "pre-release"}
+ {:card-id "coroner-goodman-slab-sleuth"
+ :code "01056"
+ :illustrator "(unknown)"
+ :position 56
+ :quantity 1
+ :set-id "pre-release"}
+ {:card-id "maestro-the-bebop-boffin"
+ :code "01057"
+ :illustrator "(unknown)"
+ :position 57
+ :quantity 1
  :set-id "pre-release"}]

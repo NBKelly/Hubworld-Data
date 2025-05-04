@@ -1,0 +1,17 @@
+{:deck-limit 1
+ :alias "Maestro"
+ :barrier 4
+ :collection-icons :shard
+ :faction :the-remnants
+ :id "maestro-the-bebop-boffin"
+ :influence-cost 0
+ :presence 1
+ :shard-cost 3
+ :stripped-text "[Reaction] As you approach a district, exhaust this card: Stage 1 card (you can stage agents, obstacles, and sources)."
+ :stripped-title "Maestro: The Bebop Boffin"
+ :subtitle "The Bebop Boffin"
+ :text "<strong>[Reaction] As you approach a district, exhaust this card:</strong> Stage 1 card <em>(you can stage agents, obstacles, and sources)</em>."
+ :title "Maestro: The Bebop Boffin"
+ :subtypes [:visionary]
+ :type :agent
+ :uniqueness true}
