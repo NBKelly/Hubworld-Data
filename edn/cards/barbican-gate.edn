@@ -3,6 +3,7 @@
  :barrier 1
  :faction :the-collective
  :id "barbican-gate"
+ :influence-cost 1
  :presence 4
  :shard-cost 1
  :stripped-text "[Confront]: Engaged player may exhaust a forged card in their grid. If they do not, gain 2 [Credit]. 

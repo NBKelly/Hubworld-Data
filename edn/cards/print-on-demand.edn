@@ -2,6 +2,7 @@
  :alias "Print on Demand"
  :faction :old-aidalon
  :id "print-on-demand"
+ :influence-cost 5
  :shard-cost 0
  :stripped-text "[Click]: Search your Commons for a source, show it to another player, and stage it. (Shuffle.)"
  :stripped-title "Print on Demand"

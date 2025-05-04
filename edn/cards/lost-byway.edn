@@ -3,6 +3,7 @@
  :collection-icons :shard
  :faction :omniworks
  :id "lost-byway"
+ :influence-cost 3
  :presence 4
  :shard-cost 3
  :stripped-text "[Reaction] After this card is forged: Lose 1 [Heat]."

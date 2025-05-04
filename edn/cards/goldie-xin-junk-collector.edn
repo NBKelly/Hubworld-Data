@@ -4,6 +4,7 @@
  :draw-limit 5
  :faction :omniworks
  :id "goldie-xin-junk-collector"
+ :influence-cost 1
  :shard-limit 10
  :stripped-text "[Click] If you have fewer [Heat] in your pool than your rival, exhaust this card: Gain 3 [Credit]."
  :stripped-title "Goldie Xin: Junk Collector"

@@ -3,6 +3,7 @@
  :collection-icons :shard
  :faction :old-aidalon
  :id "disagreeable-inspector"
+ :influence-cost 1
  :presence 2
  :shard-cost 1
  :stripped-text "[Reaction] As you confront a card, exhaust this card: That card gets -2 Barrier until the confrontation ends."

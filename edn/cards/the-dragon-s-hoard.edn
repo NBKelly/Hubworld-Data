@@ -3,6 +3,7 @@
  :collection-icons :shard
  :faction :the-remnants
  :id "the-dragon-s-hoard"
+ :influence-cost 1
  :presence 3
  :shard-cost 2
  :stripped-text "While this card is forged: Each adjacent card gets +1 Presence (forged or unforged)."

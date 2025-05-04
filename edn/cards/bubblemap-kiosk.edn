@@ -3,6 +3,7 @@
  :collection-icons :draw
  :faction :old-aidalon
  :id "bubblemap-kiosk"
+ :influence-cost 2
  :presence 4
  :shard-cost 2
  :stripped-text "Refund 1. (As this card’s Presence is broken, gain 1 [Credit].) 

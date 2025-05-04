@@ -2,6 +2,7 @@
  :alias "Smooth Handoff"
  :faction :the-remnants
  :id "smooth-handoff"
+ :influence-cost 5
  :shard-cost 1
  :stripped-text "[Instant] Add a card in your grid to your Council: Stage 1 card (you can stage agents, obstacles, and sources)."
  :stripped-title "Smooth Handoff"

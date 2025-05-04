@@ -4,6 +4,7 @@
  :collection-icons :draw
  :faction :omniworks
  :id "big-varna-gorvis-friends-in-every-district"
+ :influence-cost 0
  :presence 2
  :shard-cost 2
  :stripped-text "[Click] If you have more cards in your Council than your rival, exhaust this card: Gain 3 [Credit]. 

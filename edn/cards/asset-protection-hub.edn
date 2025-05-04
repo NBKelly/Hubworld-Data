@@ -3,6 +3,7 @@
  :barrier 1
  :faction :old-aidalon
  :id "asset-protection-hub"
+ :influence-cost 3
  :presence 4
  :shard-cost 2
  :stripped-text "Refund 1. (As this card’s Presence is broken, gain 1 [Credit].) 

@@ -3,6 +3,7 @@
  :barrier 2
  :faction :omniworks
  :id "canal-network"
+ :influence-cost 3
  :presence 5
  :shard-cost 3
  :stripped-text "[Confront] Choose a player: Shift an unforged card in their grid. 

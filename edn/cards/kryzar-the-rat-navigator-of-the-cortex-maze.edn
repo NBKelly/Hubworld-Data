@@ -1,15 +1,18 @@
 {:deck-limit 1
  :alias "Kryzar the Rat"
- :barrier 3
- :collection-icons :shard
+ :barrier 4
+ :collection-icons :draw
  :faction :the-remnants
  :id "kryzar-the-rat-navigator-of-the-cortex-maze"
- :presence 3
- :shard-cost 2
- :stripped-text "[Reaction] As you approach a district, exhaust this card: Stage 1 card (you can stage agents, obstacles, and sources)."
+ :influence-cost 0
+ :presence 2
+ :shard-cost 5
+ :stripped-text "Rush. (As an instant, pay this card’s shard cost to stage it forged.) 
+[Instant] During your delve, exhaust this card and archive 1 card from your Council: Redirect your delve to approach a grid slot adjacent to your current position."
  :stripped-title "Kryzar the Rat: Navigator of the Cortex Maze"
  :subtitle "Navigator of the Cortex Maze"
- :text "<strong>[Reaction] As you approach a district, exhaust this card:</strong> Stage 1 card <em>(you can stage agents, obstacles, and sources)</em>."
+ :text "Rush. <em>(As an instant, pay this card’s shard cost to stage it forged.)</em><br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Instant] During your delve, exhaust this card and archive 1 card from your Council:</strong> Redirect your delve to approach a grid slot adjacent to your current position."
  :title "Kryzar the Rat: Navigator of the Cortex Maze"
  :subtypes [:enforcer]
  :type :agent

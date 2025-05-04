@@ -3,6 +3,7 @@
  :collection-icons :draw
  :faction :omniworks
  :id "tele-mail-cluster"
+ :influence-cost 4
  :presence 4
  :shard-cost 2
  :stripped-text "[Reaction] After this card is forged: Stage 1 card (you can stage agents, obstacles, and sources)."

@@ -2,6 +2,7 @@
  :alias "Rapid Growth"
  :faction :old-aidalon
  :id "rapid-growth"
+ :influence-cost 4
  :shard-cost 1
  :stripped-text "[Click]: Stage up to 3 cards (you can stage agents, obstacles, and sources)."
  :stripped-title "Rapid Growth"

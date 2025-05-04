@@ -2,6 +2,7 @@
  :alias "Calling in Favors"
  :faction :omniworks
  :id "calling-in-favors"
+ :influence-cost 3
  :shard-cost 0
  :stripped-text "[Click][Click]: Gain 4 [Credit] and draw 1 card."
  :stripped-title "Calling in Favors"

@@ -3,6 +3,7 @@
  :barrier 1
  :faction :omniworks
  :id "tunnel-runners"
+ :influence-cost 3
  :presence 2
  :shard-cost 1
  :stripped-text "Refund 1. (As this card’s Presence is broken, gain 1 [Credit].) 

@@ -2,6 +2,7 @@
  :alias "Franchise Fees"
  :faction :old-aidalon
  :id "franchise-fees"
+ :influence-cost 3
  :shard-cost 0
  :stripped-text "[Click] Exhaust a card in your front row: Gain 4 [Credit]."
  :stripped-title "Franchise Fees"

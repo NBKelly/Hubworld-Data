@@ -4,6 +4,7 @@
  :collection-icons :shard
  :faction :omniworks
  :id "guildmaster-yanos-affable-gaffer"
+ :influence-cost 0
  :presence 1
  :shard-cost 3
  :stripped-text "While this card is forged: Each other card in your grid gets -1 shard cost."

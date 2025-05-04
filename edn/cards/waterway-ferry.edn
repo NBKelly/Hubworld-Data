@@ -3,6 +3,7 @@
  :barrier 1
  :faction :omniworks
  :id "waterway-ferry"
+ :influence-cost 2
  :presence 3
  :shard-cost 0
  :stripped-text "[Reaction] After this card is forged: Shift it."

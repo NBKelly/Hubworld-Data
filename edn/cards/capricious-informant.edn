@@ -3,6 +3,7 @@
  :collection-icons :shard
  :faction :the-collective
  :id "capricious-informant"
+ :influence-cost 1
  :presence 2
  :shard-cost 2
  :stripped-text "Refund 1. (As this card’s Presence is broken, gain 1 [Credit].) 

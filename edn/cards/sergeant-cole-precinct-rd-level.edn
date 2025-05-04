@@ -4,6 +4,7 @@
  :collection-icons :shard
  :faction :the-collective
  :id "sergeant-cole-precinct-rd-level"
+ :influence-cost 0
  :presence 1
  :shard-cost 1
  :stripped-text "[Reaction] After you complete a breach on a player’s Archives, exhaust this card: Archive the top 2 cards of their Commons."

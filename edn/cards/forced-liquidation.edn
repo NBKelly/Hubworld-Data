@@ -2,6 +2,7 @@
  :alias "Forced Liquidation"
  :faction :old-aidalon
  :id "forced-liquidation"
+ :influence-cost 6
  :shard-cost 3
  :stripped-text "[Reaction] As you approach a forged card, exhaust a forged card with 4 Barrier or more in your grid: Archive the approached card."
  :stripped-title "Forced Liquidation"

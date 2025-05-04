@@ -3,6 +3,7 @@
  :barrier 1
  :faction :the-remnants
  :id "oroba-plaza"
+ :influence-cost 5
  :presence 3
  :shard-cost 1
  :stripped-text "[Confront] If you have 2 [Heat] or more in your pool: Steal 1 [Credit] from engaging player’s pool. 

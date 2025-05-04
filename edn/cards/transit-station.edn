@@ -3,6 +3,7 @@
  :barrier 1
  :faction :old-aidalon
  :id "transit-station"
+ :influence-cost 2
  :presence 1
  :shard-cost 1
  :stripped-text "While this card is in your front row: It gets +4 Presence. 

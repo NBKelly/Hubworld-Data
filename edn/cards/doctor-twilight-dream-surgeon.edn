@@ -4,6 +4,7 @@
  :collection-icons :draw
  :faction :the-collective
  :id "doctor-twilight-dream-surgeon"
+ :influence-cost 0
  :presence 3
  :shard-cost 4
  :stripped-text "[Instant] Exhaust this card and exile 1 card from your Archives: Gain 3 [Credit]. 

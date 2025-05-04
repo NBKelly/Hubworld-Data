@@ -4,6 +4,7 @@
  :draw-limit 5
  :faction :old-aidalon
  :id "chairman-bo-pax-heir-to-pax-industries"
+ :influence-cost 1
  :shard-limit 10
  :stripped-text "[Click] If you have more cards in your front row than your rival, exhaust this card: They gain 1 [Heat]."
  :stripped-title "Chairman Bo Pax: Heir to Pax Industries"

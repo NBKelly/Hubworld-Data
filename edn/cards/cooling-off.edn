@@ -2,6 +2,7 @@
  :alias "Cooling Off"
  :faction :omniworks
  :id "cooling-off"
+ :influence-cost 1
  :shard-cost 0
  :stripped-text "[Click] Choose a player: They lose 1 [Heat] and draw 1 card."
  :stripped-title "Cooling Off"

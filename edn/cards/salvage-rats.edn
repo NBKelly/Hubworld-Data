@@ -3,6 +3,7 @@
  :barrier 0
  :faction :omniworks
  :id "salvage-rats"
+ :influence-cost 4
  :presence 3
  :shard-cost 2
  :stripped-text "Rush. (As an instant, pay this card’s shard cost to stage it forged.) 

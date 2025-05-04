@@ -4,6 +4,7 @@
  :collection-icons :shard
  :faction :omniworks
  :id "boss-bresloo-the-deal-maker"
+ :influence-cost 0
  :presence 2
  :shard-cost 4
  :stripped-text "[Reaction] After this card is forged, choose a player: Unforge a card with 3 shard cost or less in that player’s grid. 

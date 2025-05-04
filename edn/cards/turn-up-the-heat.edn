@@ -2,6 +2,7 @@
  :alias "Turn Up the Heat"
  :faction :the-remnants
  :id "turn-up-the-heat"
+ :influence-cost 1
  :shard-cost 1
  :stripped-text "[Reaction] After you complete a breach on a player’s district: They gain 1 [Heat]."
  :stripped-title "Turn Up the Heat"

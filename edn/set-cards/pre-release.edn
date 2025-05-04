@@ -157,175 +157,175 @@
  :set-id "pre-release"}
  {:card-id "lost-byway"
  :code "01027"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 27
  :quantity 2
  :set-id "pre-release"}
  {:card-id "prime-treasurer-geel-munificent-financier"
  :code "01028"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 28
  :quantity 1
  :set-id "pre-release"}
  {:card-id "turn-up-the-heat"
  :code "01029"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 29
  :quantity 2
  :set-id "pre-release"}
  {:card-id "cooling-off"
  :code "01030"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 30
  :quantity 2
  :set-id "pre-release"}
  {:card-id "cornering-the-market"
  :code "01031"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 31
  :quantity 2
  :set-id "pre-release"}
  {:card-id "franchise-fees"
  :code "01032"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 32
  :quantity 2
  :set-id "pre-release"}
  {:card-id "silkline-shuttle"
  :code "01033"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 33
  :quantity 2
  :set-id "pre-release"}
  {:card-id "ulin-marr-eccentric-architect"
  :code "01034"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 34
  :quantity 1
  :set-id "pre-release"}
  {:card-id "big-varna-gorvis-friends-in-every-district"
  :code "01035"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 35
  :quantity 1
  :set-id "pre-release"}
  {:card-id "boss-bresloo-the-deal-maker"
  :code "01036"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 36
  :quantity 1
  :set-id "pre-release"}
  {:card-id "guildmaster-yanos-affable-gaffer"
  :code "01037"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 37
  :quantity 1
  :set-id "pre-release"}
  {:card-id "-spider-rebbek-dragon-s-hoard-pitboss"
  :code "01038"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 38
  :quantity 1
  :set-id "pre-release"}
  {:card-id "silent-interrogator"
  :code "01039"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 39
  :quantity 2
  :set-id "pre-release"}
  {:card-id "asset-protection-hub"
  :code "01040"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 40
  :quantity 2
  :set-id "pre-release"}
  {:card-id "flooding-thoroughfare"
  :code "01041"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 41
  :quantity 2
  :set-id "pre-release"}
  {:card-id "tunnel-runners"
  :code "01042"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 42
  :quantity 2
  :set-id "pre-release"}
  {:card-id "emperor-drejj"
  :code "01043"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 43
  :quantity 2
  :set-id "pre-release"}
  {:card-id "oroba-plaza"
  :code "01044"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 44
  :quantity 2
  :set-id "pre-release"}
  {:card-id "echopomp-revoker"
  :code "01045"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 45
  :quantity 2
  :set-id "pre-release"}
  {:card-id "bubblemap-kiosk"
  :code "01046"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 46
  :quantity 2
  :set-id "pre-release"}
  {:card-id "crispy-crawler"
  :code "01047"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 47
  :quantity 2
  :set-id "pre-release"}
  {:card-id "pax-observatory"
  :code "01048"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 48
  :quantity 2
  :set-id "pre-release"}
  {:card-id "waterfront-soakhouse"
  :code "01049"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 49
  :quantity 2
  :set-id "pre-release"}
  {:card-id "wirecrawler"
  :code "01050"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 50
  :quantity 2
  :set-id "pre-release"}
  {:card-id "twice-as-bad"
  :code "01051"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 51
  :quantity 2
  :set-id "pre-release"}
  {:card-id "rapid-growth"
  :code "01052"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 52
  :quantity 2
  :set-id "pre-release"}
  {:card-id "print-on-demand"
  :code "01053"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 53
  :quantity 2
  :set-id "pre-release"}
  {:card-id "forced-liquidation"
  :code "01054"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 54
  :quantity 2
  :set-id "pre-release"}
  {:card-id "threading-through"
  :code "01055"
- :illustrator ["(unknown)"]
+ :illustrator "(unknown)"
  :position 55
  :quantity 2
  :set-id "pre-release"}]

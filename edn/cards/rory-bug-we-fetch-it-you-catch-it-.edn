@@ -4,6 +4,7 @@
  :collection-icons :shard
  :faction :omniworks
  :id "rory-bug-we-fetch-it-you-catch-it-"
+ :influence-cost 0
  :presence 2
  :shard-cost 0
  :stripped-text "[Instant] Exhaust this card and lose 2 [Credit]: Shift this card."

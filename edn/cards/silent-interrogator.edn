@@ -3,6 +3,7 @@
  :barrier 0
  :faction :the-collective
  :id "silent-interrogator"
+ :influence-cost 1
  :presence 4
  :shard-cost 0
  :stripped-text "[Discover] If this card is in your grid: Archive the bottom 4 cards of engaging player’s Commons."

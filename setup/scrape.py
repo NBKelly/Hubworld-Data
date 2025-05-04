@@ -88,7 +88,7 @@ def get_image_url(soup, card):
     return card
 
 basic_keys = []
-numeric_keys = ["Action Limit", "Draw Limit", "Shard Limit", "Shard Cost", "Barrier", "Presence"]
+numeric_keys = ["Action Limit", "Draw Limit", "Shard Limit", "Shard Cost", "Barrier", "Presence", "Affiliation Icons"]
 slugged_keys = ["Affiliation", "Type", "Collection Icons", "Set"]
 list_keys = ["Traits"]
 list_text_keys = ["Illustrator"]
@@ -109,7 +109,7 @@ def process_row(row, card):
     for key in slugged_keys:
         if text.startswith(key):
             if text.startswith("Affiliation Icons"):
-                return card
+                break
             card[":" + slugify(key)] = ":" + slugify(text[len(key):].strip())
             return card
 
@@ -236,9 +236,12 @@ def set_identities(card):
 
 for card in cards:
     card[":faction"] = card[":affiliation"]
+    il = card.get(":illustrator", "(unknown)")
+    print("Illustrator: " + il)
     card.pop(":affiliation", None)
     card.pop(":set", None)
-    il = card.get(":illustrator", ["(unknown)"])
+    card[":influence-cost"] = card.pop(":affiliation-icons", 0)
+
     formatted_card = format_card(stripped_card(card))
     f = open("edn/cards/" + card[':id'] + ".edn", "w")
     f.write(formatted_card + "\n")

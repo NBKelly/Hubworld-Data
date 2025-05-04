@@ -2,6 +2,7 @@
  :alias "Infiltrate"
  :faction :omniworks
  :id "infiltrate"
+ :influence-cost 3
  :shard-cost 0
  :stripped-text "[Reaction] As you begin discovering cards in a Council: Discover +2 cards."
  :stripped-title "Infiltrate"

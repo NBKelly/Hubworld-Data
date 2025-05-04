@@ -3,6 +3,7 @@
  :barrier 3
  :faction :the-collective
  :id "eye-enforcers"
+ :influence-cost 3
  :presence 5
  :shard-cost 4
  :stripped-text "[Confront] Lose 1 [Credit]: Archive 1 card at random from engaging player’s Council. 

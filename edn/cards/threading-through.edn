@@ -2,6 +2,7 @@
  :alias "Threading Through"
  :faction :omniworks
  :id "threading-through"
+ :influence-cost 2
  :shard-cost 1
  :stripped-text "[Instant]: Shift a card in your grid."
  :stripped-title "Threading Through"

@@ -3,6 +3,7 @@
  :collection-icons :shard
  :faction :old-aidalon
  :id "shardwinner"
+ :influence-cost 3
  :presence 2
  :shard-cost 3
  :stripped-text "While this card is in your Council path: It gets +[Credit] collection icon. 

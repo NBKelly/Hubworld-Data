@@ -4,12 +4,13 @@
  :collection-icons :shard
  :faction :omniworks
  :id "auntie-ruth-proprietor-of-the-hidden-tea-house"
+ :influence-cost 0
  :presence 2
  :shard-cost 4
- :stripped-text "[Reaction] After this card is forged, choose a player: They draw 3 cards."
+ :stripped-text "[Instant] Exhaust this card and choose a player: They draw 1 card."
  :stripped-title "Auntie Ruth: Proprietor of the Hidden Tea House"
  :subtitle "Proprietor of the Hidden Tea House"
- :text "<strong>[Reaction] After this card is forged, choose a player:</strong> They draw 3 cards."
+ :text "<strong>[Instant] Exhaust this card and choose a player:</strong> They draw 1 card."
  :title "Auntie Ruth: Proprietor of the Hidden Tea House"
  :subtypes [:paragon]
  :type :agent

@@ -3,6 +3,7 @@
  :barrier 1
  :faction :omniworks
  :id "flooding-thoroughfare"
+ :influence-cost 1
  :presence 3
  :shard-cost 1
  :stripped-text "[Reaction] After this card is forged during a delve: This card gets +2 Barrier until the delve ends."

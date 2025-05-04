@@ -4,6 +4,7 @@
  :collection-icons :shard
  :faction :old-aidalon
  :id "prime-treasurer-geel-munificent-financier"
+ :influence-cost 0
  :presence 2
  :shard-cost 3
  :stripped-text "While this card is forged: Each other agent and obstacle in your grid gets +1 Barrier. 

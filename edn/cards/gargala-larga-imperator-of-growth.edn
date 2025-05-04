@@ -4,6 +4,7 @@
  :collection-icons :shard
  :faction :old-aidalon
  :id "gargala-larga-imperator-of-growth"
+ :influence-cost 0
  :presence 1
  :shard-cost 3
  :stripped-text "[Instant] Exhaust this card: Unexhaust your seeker."

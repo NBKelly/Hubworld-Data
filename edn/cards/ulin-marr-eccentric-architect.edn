@@ -4,6 +4,7 @@
  :collection-icons :draw
  :faction :old-aidalon
  :id "ulin-marr-eccentric-architect"
+ :influence-cost 0
  :presence 1
  :shard-cost 2
  :stripped-text "[Click] Exhaust this card: Stage up to 2 cards (you can stage agents, obstacles, and sources)."

@@ -3,6 +3,7 @@
  :barrier 3
  :faction :omniworks
  :id "emperor-drejj"
+ :influence-cost 5
  :presence 6
  :shard-cost 5
  :stripped-text "[Reaction] After you forge a card: Shift this card. 

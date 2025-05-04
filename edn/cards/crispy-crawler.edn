@@ -3,6 +3,7 @@
  :collection-icons :shard
  :faction :old-aidalon
  :id "crispy-crawler"
+ :influence-cost 2
  :presence 2
  :shard-cost 1
  :stripped-text "Cache 2. (As this is forged, place 2 [Credit] here.) 

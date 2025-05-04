@@ -3,6 +3,7 @@
  :collection-icons :shard
  :faction :omniworks
  :id "waterfront-soakhouse"
+ :influence-cost 1
  :presence 2
  :shard-cost 1
  :stripped-text "While you have fewer [Heat] in your pool than your rival: This card gets +4 Presence."

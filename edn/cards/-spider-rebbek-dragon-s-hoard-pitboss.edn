@@ -4,6 +4,7 @@
  :collection-icons :draw
  :faction :the-remnants
  :id "-spider-rebbek-dragon-s-hoard-pitboss"
+ :influence-cost 0
  :presence 2
  :shard-cost 2
  :stripped-text "While this card is forged: Each other card in your grid gets +1 Presence. 
