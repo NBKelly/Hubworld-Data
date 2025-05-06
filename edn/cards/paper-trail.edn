@@ -1,0 +1,14 @@
+{:deck-limit 2
+ :alias "Paper Trail"
+ :faction :the-collective
+ :id "paper-trail"
+ :influence-cost 3
+ :shard-cost 2
+ :stripped-text "[Reaction] After you complete a breach on a player’s Archives: Discover 1 card in their Council."
+ :stripped-title "Paper Trail"
+ :subtitle ""
+ :text "<strong>[Reaction] After you complete a breach on a player’s Archives:</strong> Discover 1 card in their Council."
+ :title "Paper Trail"
+ :subtypes [:subterfuge :tactic]
+ :type :moment
+ :uniqueness nil}

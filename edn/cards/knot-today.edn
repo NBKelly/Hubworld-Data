@@ -1,0 +1,14 @@
+{:deck-limit 2
+ :alias "Knot Today"
+ :faction :the-remnants
+ :id "knot-today"
+ :influence-cost 4
+ :shard-cost 0
+ :stripped-text "[Reaction] As you discover a moment in a Council or Commons: Archive that moment. Draw 1 card."
+ :stripped-title "Knot Today"
+ :subtitle ""
+ :text "<strong>[Reaction] As you discover a moment in a Council or Commons:</strong> Archive that moment. Draw 1 card."
+ :title "Knot Today"
+ :subtypes [:subterfuge :tactic]
+ :type :moment
+ :uniqueness nil}

@@ -1,0 +1,14 @@
+{:deck-limit 2
+ :alias "Recalibrate"
+ :faction :omniworks
+ :id "recalibrate"
+ :influence-cost 1
+ :shard-cost 0
+ :stripped-text "[Instant] Unforge a card in your grid: Draw 1 card."
+ :stripped-title "Recalibrate"
+ :subtitle ""
+ :text "<strong>[Instant] Unforge a card in your grid:</strong> Draw 1 card."
+ :title "Recalibrate"
+ :subtypes [:knowledge]
+ :type :moment
+ :uniqueness nil}

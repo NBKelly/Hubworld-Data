@@ -1,0 +1,14 @@
+{:deck-limit 2
+ :alias "Protecting Our Investment"
+ :faction :old-aidalon
+ :id "protecting-our-investment"
+ :influence-cost 1
+ :shard-cost 0
+ :stripped-text "[Reaction] As a player confronts an obstacle in your grid: That obstacle gets +3 Barrier until the confrontation ends."
+ :stripped-title "Protecting Our Investment"
+ :subtitle ""
+ :text "<strong>[Reaction] As a player confronts an obstacle in your grid:</strong> That obstacle gets +3 Barrier until the confrontation ends."
+ :title "Protecting Our Investment"
+ :subtypes [:tactic]
+ :type :moment
+ :uniqueness nil}

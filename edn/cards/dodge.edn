@@ -1,0 +1,14 @@
+{:deck-limit 2
+ :alias "Dodge"
+ :faction :the-remnants
+ :id "dodge"
+ :influence-cost 2
+ :shard-cost 0
+ :stripped-text "[Reaction] As a Confront or Discover ability begins to resolve: Cancel that resolution."
+ :stripped-title "Dodge"
+ :subtitle ""
+ :text "<strong>[Reaction] As a Confront or Discover ability begins to resolve:</strong> Cancel that resolution."
+ :title "Dodge"
+ :subtypes [:tactic]
+ :type :moment
+ :uniqueness nil}

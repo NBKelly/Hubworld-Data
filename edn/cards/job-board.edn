@@ -1,0 +1,18 @@
+{:deck-limit 2
+ :alias "Job Board"
+ :collection-icons :draw
+ :faction :omniworks
+ :id "job-board"
+ :influence-cost 2
+ :presence 3
+ :shard-cost 2
+ :stripped-text "Refund 1. (As this card’s Presence is broken, gain 1 [Credit].) 
+While this card is forged: Each adjacent card gets -1 shard cost."
+ :stripped-title "Job Board"
+ :subtitle ""
+ :text "Refund 1. <em>(As this card’s Presence is broken, gain 1 [Credit].)</em><br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>While this card is forged:</strong> Each adjacent card gets -1 shard cost."
+ :title "Job Board"
+ :subtypes [:location]
+ :type :source
+ :uniqueness nil}

@@ -1,0 +1,16 @@
+{:deck-limit 2
+ :alias "Marauder’s Market"
+ :collection-icons :draw
+ :faction :the-remnants
+ :id "marauder-s-market"
+ :influence-cost 3
+ :presence 3
+ :shard-cost 2
+ :stripped-text "[Instant] If you have 2 [Heat] or more in your pool, exhaust this card: Gain 2 [Credit]."
+ :stripped-title "Marauder’s Market"
+ :subtitle ""
+ :text "<strong>[Instant] If you have 2 [Heat] or more in your pool, exhaust this card:</strong> Gain 2 [Credit]."
+ :title "Marauder’s Market"
+ :subtypes [:location]
+ :type :source
+ :uniqueness nil}

@@ -1,0 +1,16 @@
+{:deck-limit 2
+ :alias "Cargo Manifest"
+ :collection-icons :shard
+ :faction :omniworks
+ :id "cargo-manifest"
+ :influence-cost 2
+ :presence 3
+ :shard-cost 2
+ :stripped-text "[Reaction] After this card is forged, choose another player: Look at the top card of their Commons. You may add that card to the bottom of their Commons."
+ :stripped-title "Cargo Manifest"
+ :subtitle ""
+ :text "<strong>[Reaction] After this card is forged, choose another player:</strong> Look at the top card of their Commons. You may add that card to the bottom of their Commons."
+ :title "Cargo Manifest"
+ :subtypes [:contraption]
+ :type :source
+ :uniqueness nil}

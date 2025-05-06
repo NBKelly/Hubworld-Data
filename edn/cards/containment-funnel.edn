@@ -1,0 +1,16 @@
+{:deck-limit 2
+ :alias "Containment Funnel"
+ :collection-icons :shard
+ :faction :the-collective
+ :id "containment-funnel"
+ :influence-cost 4
+ :presence 3
+ :shard-cost 3
+ :stripped-text "[Reaction] As a player confronts an adjacent card, exhaust this card: Redirect that player to confront this card."
+ :stripped-title "Containment Funnel"
+ :subtitle ""
+ :text "<strong>[Reaction] As a player confronts an adjacent card, exhaust this card:</strong> Redirect that player to confront this card."
+ :title "Containment Funnel"
+ :subtypes [:contraption]
+ :type :source
+ :uniqueness nil}

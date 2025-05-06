@@ -1,0 +1,16 @@
+{:deck-limit 2
+ :alias "Daring Aeroboarder"
+ :collection-icons :shard
+ :faction :the-remnants
+ :id "daring-aeroboarder"
+ :influence-cost 5
+ :presence 3
+ :shard-cost 3
+ :stripped-text "[Reaction] As you approach a grid slot, if you have 3 or fewer cards in your Council, exhaust this card: Redirect your delve to approach a grid slot adjacent to your current position."
+ :stripped-title "Daring Aeroboarder"
+ :subtitle ""
+ :text "<strong>[Reaction] As you approach a grid slot, if you have 3 or fewer cards in your Council, exhaust this card:</strong> Redirect your delve to approach a grid slot adjacent to your current position."
+ :title "Daring Aeroboarder"
+ :subtypes [:contraption]
+ :type :source
+ :uniqueness nil}

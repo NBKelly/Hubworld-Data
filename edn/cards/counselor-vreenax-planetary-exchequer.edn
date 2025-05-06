@@ -1,0 +1,17 @@
+{:deck-limit 1
+ :alias "Counselor Vreenax"
+ :barrier 4
+ :collection-icons :shard
+ :faction :the-collective
+ :id "counselor-vreenax-planetary-exchequer"
+ :influence-cost 0
+ :presence 1
+ :shard-cost 4
+ :stripped-text "While this card is forged: Each card in your rival’s grid gets +1 shard cost."
+ :stripped-title "Counselor Vreenax: Planetary Exchequer"
+ :subtitle "Planetary Exchequer"
+ :text "<strong>While this card is forged:</strong> Each card in your rival’s grid gets +1 shard cost."
+ :title "Counselor Vreenax: Planetary Exchequer"
+ :subtypes [:paragon]
+ :type :agent
+ :uniqueness true}

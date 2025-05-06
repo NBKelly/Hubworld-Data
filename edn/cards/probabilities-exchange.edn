@@ -1,0 +1,16 @@
+{:deck-limit 2
+ :alias "Probabilities Exchange"
+ :barrier 1
+ :faction :old-aidalon
+ :id "probabilities-exchange"
+ :influence-cost 5
+ :presence 4
+ :shard-cost 3
+ :stripped-text "[Confront]: Engaging player shuffles 1 card from their grid into their Commons."
+ :stripped-title "Probabilities Exchange"
+ :subtitle ""
+ :text "<strong>[Confront]:</strong> Engaging player shuffles 1 card from their grid into their Commons."
+ :title "Probabilities Exchange"
+ :subtypes [:location]
+ :type :obstacle
+ :uniqueness nil}

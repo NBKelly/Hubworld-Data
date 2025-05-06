@@ -1,0 +1,17 @@
+{:deck-limit 1
+ :alias "Vapor X"
+ :barrier 3
+ :collection-icons :shard
+ :faction :the-remnants
+ :id "vapor-x-holomancer-for-hire"
+ :influence-cost 0
+ :presence 1
+ :shard-cost 2
+ :stripped-text "Exhaust this card and lose 1 [Credit]: Swap two other cards in your grid."
+ :stripped-title "Vapor X: Holomancer for Hire"
+ :subtitle "Holomancer for Hire"
+ :text "<strong>Exhaust this card and lose 1 [Credit]:</strong> Swap two other cards in your grid."
+ :title "Vapor X: Holomancer for Hire"
+ :subtypes [:renegade]
+ :type :agent
+ :uniqueness true}

@@ -1,0 +1,14 @@
+{:deck-limit 2
+ :alias "Tenacity"
+ :faction :the-remnants
+ :id "tenacity"
+ :influence-cost 1
+ :shard-cost 0
+ :stripped-text "[Reaction] As a player engages a card in your grid: That card gets +3 Presence until the engagement ends. (“Engage” includes both confront and discover.)"
+ :stripped-title "Tenacity"
+ :subtitle ""
+ :text "<strong>[Reaction] As a player engages a card in your grid:</strong> That card gets +3 Presence until the engagement ends. <em>(“Engage” includes both confront and discover.)</em>"
+ :title "Tenacity"
+ :subtypes [:influence]
+ :type :moment
+ :uniqueness nil}

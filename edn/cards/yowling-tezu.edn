@@ -1,0 +1,18 @@
+{:deck-limit 2
+ :alias "Yowling Tezu"
+ :barrier 1
+ :faction :the-remnants
+ :id "yowling-tezu"
+ :influence-cost 1
+ :presence 3
+ :shard-cost 1
+ :stripped-text "[Confront] Gain 1 [Heat]: Engaging player gains 1 [Heat]. 
+[Discover] If this card is in your grid, archive it: Engaging player gains 2 [Heat]."
+ :stripped-title "Yowling Tezu"
+ :subtitle ""
+ :text "<strong>[Confront] Gain 1 [Heat]:</strong> Engaging player gains 1 [Heat].<br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Discover] If this card is in your grid, archive it:</strong> Engaging player gains 2 [Heat]."
+ :title "Yowling Tezu"
+ :subtypes [:being]
+ :type :obstacle
+ :uniqueness nil}

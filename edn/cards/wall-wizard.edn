@@ -1,0 +1,17 @@
+{:deck-limit 2
+ :alias "Wall Wizard"
+ :faction :the-remnants
+ :id "wall-wizard"
+ :influence-cost 2
+ :presence 4
+ :shard-cost 1
+ :stripped-text "Refund 1. (As this card’s Presence is broken, gain 1 [Credit].) 
+[Reaction] After you complete a breach on a district, exhaust this card: Gain 2 [Credit]."
+ :stripped-title "Wall Wizard"
+ :subtitle ""
+ :text "Refund 1. <em>(As this card’s Presence is broken, gain 1 [Credit].)</em><br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Reaction] After you complete a breach on a district, exhaust this card:</strong> Gain 2 [Credit]."
+ :title "Wall Wizard"
+ :subtypes [:persona]
+ :type :source
+ :uniqueness nil}

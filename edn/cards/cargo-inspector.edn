@@ -1,0 +1,15 @@
+{:deck-limit 2
+ :alias "Cargo Inspector"
+ :faction :the-collective
+ :id "cargo-inspector"
+ :influence-cost 2
+ :presence 5
+ :shard-cost 1
+ :stripped-text "[Instant] Exhaust this card: Draw 2 cards. Archive 1 card from your Council."
+ :stripped-title "Cargo Inspector"
+ :subtitle ""
+ :text "<strong>[Instant] Exhaust this card:</strong> Draw 2 cards. Archive 1 card from your Council."
+ :title "Cargo Inspector"
+ :subtypes [:persona]
+ :type :source
+ :uniqueness nil}

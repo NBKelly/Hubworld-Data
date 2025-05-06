@@ -1,0 +1,17 @@
+{:deck-limit 1
+ :alias "Renovator Warlan"
+ :barrier 4
+ :collection-icons :shard
+ :faction :old-aidalon
+ :id "renovator-warlan-redev-mogul"
+ :influence-cost 0
+ :presence 2
+ :shard-cost 3
+ :stripped-text "[Reaction] After a card is archived or exiled from a grid, exhaust this card and choose a player: That player exhausts a card in the front row of their grid."
+ :stripped-title "Renovator Warlan: ReDev Mogul"
+ :subtitle "ReDev Mogul"
+ :text "<strong>[Reaction] After a card is archived or exiled from a grid, exhaust this card and choose a player:</strong> That player exhausts a card in the front row of their grid."
+ :title "Renovator Warlan: ReDev Mogul"
+ :subtypes [:enforcer]
+ :type :agent
+ :uniqueness true}

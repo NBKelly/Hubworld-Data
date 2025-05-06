@@ -1,0 +1,16 @@
+{:deck-limit 2
+ :alias "Echofield Registry"
+ :collection-icons :shard
+ :faction :the-collective
+ :id "echofield-registry"
+ :influence-cost 3
+ :presence 3
+ :shard-cost 2
+ :stripped-text "[Reaction] After you complete a breach on a district, exhaust this card: Shuffle 1 card from your Archives into your Commons (of your choice). Draw 1 card."
+ :stripped-title "Echofield Registry"
+ :subtitle ""
+ :text "<strong>[Reaction] After you complete a breach on a district, exhaust this card:</strong> Shuffle 1 card from your Archives into your Commons <em>(of your choice)</em>. Draw 1 card."
+ :title "Echofield Registry"
+ :subtypes [:contraption]
+ :type :source
+ :uniqueness nil}

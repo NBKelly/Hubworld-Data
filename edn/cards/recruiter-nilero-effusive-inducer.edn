@@ -1,0 +1,19 @@
+{:deck-limit 1
+ :alias "Recruiter Nilero"
+ :barrier 4
+ :collection-icons :draw
+ :faction :omniworks
+ :id "recruiter-nilero-effusive-inducer"
+ :influence-cost 0
+ :presence 2
+ :shard-cost 3
+ :stripped-text "While this card is forged: Your seeker gets +2 council limit. 
+[Discover] Choose a player: They draw 2 cards."
+ :stripped-title "Recruiter Nilero: Effusive Inducer"
+ :subtitle "Effusive Inducer"
+ :text "<strong>While this card is forged:</strong> Your seeker gets +2 council limit.<br/> <hr class=\"border-black opacity-20 my-1\"/>
+<strong>[Discover] Choose a player:</strong> They draw 2 cards."
+ :title "Recruiter Nilero: Effusive Inducer"
+ :subtypes [:visionary]
+ :type :agent
+ :uniqueness true}

@@ -1,0 +1,14 @@
+{:deck-limit 2
+ :alias "Propaganda"
+ :faction :the-collective
+ :id "propaganda"
+ :influence-cost 5
+ :shard-cost 0
+ :stripped-text "[Click] Show another player an agent in your Council or Archives: Gain 4 [Credit]."
+ :stripped-title "Propaganda"
+ :subtitle ""
+ :text "<strong>[Click] Show another player an agent in your Council or Archives:</strong> Gain 4 [Credit]."
+ :title "Propaganda"
+ :subtypes [:influence :subterfuge]
+ :type :moment
+ :uniqueness nil}
