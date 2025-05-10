@@ -1,4 +1,9 @@
 [{:id "pre-release"
   :name "Pre-Release"
   :sets ["pre-release"]
+  :mwl nil}
+ ;; you can use any 6 affiliation pips
+ {:id "free-agent"
+  :name "Free Agent"
+  :sets ["pre-release"]
   :mwl nil}]
